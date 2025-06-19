@@ -1,0 +1,365 @@
+{
+  "search_metadata": {
+    "id": "6853de3adb99ec99c0a0b929",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/678d74f533aa0c63/6853de3adb99ec99c0a0b929.json",
+    "created_at": "2025-06-19 09:54:02 UTC",
+    "processed_at": "2025-06-19 09:54:02 UTC",
+    "google_events_url": "https://www.google.com/search?q=comedy&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=30&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/678d74f533aa0c63/6853de3adb99ec99c0a0b929.html",
+    "total_time_taken": 4.32
+  },
+  "search_parameters": {
+    "q": "comedy",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 30,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Inder Sahani - Live India Tour",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 6 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/inder-chahal-bengaluru-tickets-6-22-2025/event/158052813/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAgDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/inder-chahal-bengaluru-tickets-6-22-2025/event/158052813/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzezEafla7f35glFlxqGDDnZfCalwJNPNBOQ-3Ym-UoHUALoZ79GN8l-k&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTnUlEDDSmxaxXNzkiScL_iX4imk8uPOf3mbclHOylQ&s=10"
+    },
+    {
+      "title": "PANNU YAAR BY GURLEEN",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 7:30 PM"
+      },
+      "address": [
+        "Phoenix Mall Of Asia, 239/240, Byatarayanapura, Yelahanka, Hobli, Yelahanka Taluk, Bellary Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/pannu-yaar-by-gurleen/3900028227593445",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=t9Pe1NLq51FpukpXH9B1i7TB-iDmBzU8yZVJkqlUy6mww1i4JEcSGJCcKbpEpALbT7PD0T-y1rh7zNKM5mYm22Uj1i8EnkIQjxb0K0pH4WZjsAdImrY",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1925ed3bc12f:0x7b731ab2850d5f8b?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAgLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1925ed3bc12f%3A0x7b731ab2850d5f8b&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "description": "Bengaluru, get ready to laugh out loud\u2026\u2026.Pannu Yaar by Gurleen Pannu is coming to town with her brand new stand-up comedy show. Catch her live at Fan Park, Phoenix Mall of Asia, for a night full...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/pannu-yaar-by-gurleen/3900028227593445",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Phoenix Mall Of Asia",
+        "rating": 4.3,
+        "reviews": 15063,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Phoenix+Mall+Of+Asia&ludocid=8895483043025608587&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROK6CpvaZxakTPAshlWxAXVZXZ2-5_Zz6dZf4NNDx8Aj4U8b73SgR69PY&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQghfHclmXulqRfomX0oV9W2H279SJjXPZcI5e9nm8aA&s=10"
+    },
+    {
+      "title": "Dysfunctional by Mohd Suhel",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 10 PM"
+      },
+      "address": [
+        "Ministry Of Comedy, 1018, 80 Feet Rd, above Cream Stone, opp. Wooden Street, 4th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/dysfunctional-by-mohd-suhel/3900028060244029",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=PAMRrFPy5HwBkJV0I3Hwx3h6H665_bDV9qIhmt2W3PRn28QQGhcBawn0jpv_Z2DFrbMQY3dlkxgI9Z2mpJDWSbfcqAwh2g3tLB8FEet0Wu5JF_ILPX4",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae153f3f235717:0xa1a338285c7f75c3?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAgTEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae153f3f235717%3A0xa1a338285c7f75c3&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "description": "From a fresher to retired or fired, this show is a ultimate guide to surviving the job market by someone who has never been in a corporate. Join Mohd Suhel, take you through his hilarious blunders...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/dysfunctional-by-mohd-suhel/3900028060244029",
+          "link_type": "tickets"
+        },
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/mohd-suhel-bengaluru-tickets-6-21-2025/event/158304942/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Ministry Of Comedy",
+        "rating": 4.5,
+        "reviews": 306,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Ministry+Of+Comedy&ludocid=11647214807311939011&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7mRyoJrpQcqLuP7NmrRqoXy-fxmZkPbYUph3MQeVkyycZehBM3lWMcM8&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlme0y1-ZOT3tF2TR2s8c328LAcdv-oKBxOmd1J57Ufg&s=10"
+    },
+    {
+      "title": "Lessons by Daniel Fernandes",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 4 \u2013 6 PM"
+      },
+      "address": [
+        "Building No.480, The Underground Comedy Club, KHB Colony, 5th Block",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/lessons-by-daniel-fernandes/3900027700423639?slot=stvcvhqczzvdpcxatc",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=0aRVhYfVkSJb61YdcThLXOZd6XmEWWhJZYj9xWLjcP8JGtjN6W72-Uz6mK87Hcspf9g-HcPAzpz-yhTZe7_PQAeuOFBjY2gGmZ9pZRdavEYVQHyPZ3A",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15a97e0adfc7:0xf8b2fc633d090909?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAgbEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15a97e0adfc7%3A0xf8b2fc633d090909&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "description": "Lessons is a brand new one of a kind show by Daniel Fernandes that promises a night of laughter AND wisdom , and the gods of every religion know that we could use some of that right now.",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/lessons-by-daniel-fernandes/3900027700423639",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Townscript",
+          "link": "https://www.townscript.com/e/lessons-bangalore2",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Underground Comedy Club",
+        "rating": 4.5,
+        "reviews": 673,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Underground+Comedy+Club&ludocid=17920663370416589065&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-IGBO7bfpEG7dNzIyyPA2g_RlkJH4A8O7MQsrASUCsIKNcsR6IGEzOI&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JJmq_pfVArN0JkrYFGeHmaPliIjyphh-94gUqYI9Qw&s=10"
+    },
+    {
+      "title": "Best in Standup ft. Various Artists",
+      "date": {
+        "start_date": "Jun 23",
+        "when": "Mon, Jun 23, 3 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-23-2025/event/158470836/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAgjEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-23-2025/event/158470836/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Best in Standup ft. Various Artists",
+      "date": {
+        "start_date": "Jun 26",
+        "when": "Thu, Jun 26, 3 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-25-2025/event/158470827/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAgrEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-25-2025/event/158470827/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Vivek Samtani Live",
+      "date": {
+        "start_date": "Jun 29",
+        "when": "Sun, Jun 29, 4:30 \u2013 8:30 PM"
+      },
+      "address": [
+        "3rd floor, #950, The Comedy Theatre - Indiranagar, Bangalore, Bayt Towers, 12th Main Rd, opposite to Araku Coffee, HAL, Indiranagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/vivek-samtani-live/3900027785913810",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=6tETIoix6r1ahOqf4aO-yCru64S-33AsV75kT5-9UKCOO013RA5MfkYy8efhKFAorCb0t0-9-8IY7rduou1c6m8VZP1AIfWzOUwAz4QDrCTDTKZtvto",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae17ed33bc717d:0xeae817199647c6ad?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAgzEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae17ed33bc717d%3A0xeae817199647c6ad&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "description": "Vivek Samtani Live\"Get ready for a night of unadulterated laughter with Vivek Samtani Live!Join Vivek as he takes the stage to regale you with his sharp wit, clever observations, and hilarious...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/vivek-samtani-live/3900027785913810",
+          "link_type": "tickets"
+        },
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/vivek-samtani-bengaluru-tickets-6-28-2025/event/158299268/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre - Indiranagar, Bangalore",
+        "rating": 4.4,
+        "reviews": 112,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+-+Indiranagar,+Bangalore&ludocid=16926804598134916781&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS8rRwSEav6rp_Q1NPqHZdIj1awxEZY6pVF84jwt6E6ockRwy5i8OTsoA&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQLI7tuVjOzpLnRoMNt-oNX6pzbcrH0_uavUouhrmUQ&s=10"
+    },
+    {
+      "title": "Best in Standup ft. Various Artists",
+      "date": {
+        "start_date": "Jun 27",
+        "when": "Fri, Jun 27, 3 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-27-2025/event/158470829/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAg7EAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-27-2025/event/158470829/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Best in Standup ft. Various Artists",
+      "date": {
+        "start_date": "Jun 30",
+        "when": "Mon, Jun 30, 3 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-30-2025/event/158470831/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAhDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-30-2025/event/158470831/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Abijit Ganguly Live",
+      "date": {
+        "start_date": "Jun 29",
+        "when": "Sun, Jun 29, 5:30 \u2013 6:00 PM"
+      },
+      "address": [
+        "3rd floor, #950, The Comedy Theatre - Indiranagar, Bangalore, Bayt Towers, 12th Main Rd, opposite to Araku Coffee, HAL, Indiranagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/abijit-ganguly-live/3900027786021711",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=6tETIoix6r1ahOqf4aO-yCru64S-33AsV75kT5-9UKCOO013RA5MfkYy8efhKFAorCb0t0-9-8IY7rduou1c6m8VZP1AIfWzOUwAz4QDrCTDTKZtvto",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae17ed33bc717d:0xeae817199647c6ad?sa=X&ved=2ahUKEwi87JXPm_2NAxXuAtsEHU3wIac4HhD14gF6BAhLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae17ed33bc717d%3A0xeae817199647c6ad&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=30&type=place"
+      },
+      "description": "Abijit Ganguly is funny. He claims he never been on Tinder. He is also very funny. He`s certain one day he`ll have six pack abs and be better looking than the handomest Bengali Bappi Lahiri. Did...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/abijit-ganguly-live/3900027786021711",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre - Indiranagar, Bangalore",
+        "rating": 4.4,
+        "reviews": 112,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+-+Indiranagar,+Bangalore&ludocid=16926804598134916781&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVOLVAbT80JUgPcs9mgV6F0T4ylsymvTmATodx4Nosf0y5h6_eUyM0nKs&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFqVpErcNAyg01PizxbnTwmtQg7ah266OqxNTzHKYVxQ&s=10"
+    }
+  ]
+}

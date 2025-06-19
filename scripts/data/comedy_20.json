@@ -1,0 +1,362 @@
+{
+  "search_metadata": {
+    "id": "6853de366f1e40c1f0c13a37",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e6da219b05351da1/6853de366f1e40c1f0c13a37.json",
+    "created_at": "2025-06-19 09:53:58 UTC",
+    "processed_at": "2025-06-19 09:53:58 UTC",
+    "google_events_url": "https://www.google.com/search?q=comedy&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=20&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/e6da219b05351da1/6853de366f1e40c1f0c13a37.html",
+    "total_time_taken": 3.44
+  },
+  "search_parameters": {
+    "q": "comedy",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 20,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Kalyan Nagar Comedy Nights",
+      "date": {
+        "start_date": "Jun 23",
+        "when": "Mon, Jun 23, 8 PM"
+      },
+      "address": [
+        "Glens BakeHouse Kalyan Nagar, 426, 7th Main Rd, HRBR Layout 1st Block, HRBR Layout, Kalyan Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/mobile/amp-event.php?event_id=3900027674667249&slot=2025-06-23",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=rxZOVJ_2kPH8rJCBCR6CRJLb5PcbwhCuYfAkiv3xXPscuv8_5c0odV6vVOChRXUYW0dqQ8hJEB4kJmvCyhBFNktuF6PGsTsL5-i7AxMj8cOT-1zifXA",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae172a9dffb4a5:0x9fee99efbbd0fd77?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAgDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae172a9dffb4a5%3A0x9fee99efbbd0fd77&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "description": "Coffee, Cupcakes, and Crusty sandwiches. These were the ingredients chosen, to create the perfect Bakehouse. But Punchlime accidentally added an extra ingredient to the concoction-- Comedians...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/kalyan-nagar-comedy-nights/3900027674667249?slot=2025-06-23",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Glens BakeHouse Kalyan Nagar",
+        "rating": 4.4,
+        "reviews": 3807,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Glens+BakeHouse+Kalyan+Nagar&ludocid=11524317751414947191&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMSZriH4zgIAzJOpHNPiqECZdZJXyW7pzYoOtqIQBNKrTFBVeXqsA9wLo&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdJG6KdRklYMTX6jjdtDXzdu5_oR1Z7ZVdUazuZDD2w&s=10"
+    },
+    {
+      "title": "PRACTICE - A Standup Comedy Show by Manik Mahna",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 7 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/manik-mahna-bengaluru-tickets-6-28-2025/event/158470489/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAgLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/manik-mahna-bengaluru-tickets-6-28-2025/event/158470489/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Kalyan Nagar Comedy Nights",
+      "date": {
+        "start_date": "Jun 30",
+        "when": "Mon, Jun 30, 8 PM"
+      },
+      "address": [
+        "Glens BakeHouse Kalyan Nagar, 426, 7th Main Rd, HRBR Layout 1st Block, HRBR Layout, Kalyan Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/mobile/amp-event.php?event_id=3900027674667249&slot=2025-06-30",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=rxZOVJ_2kPH8rJCBCR6CRJLb5PcbwhCuYfAkiv3xXPscuv8_5c0odV6vVOChRXUYW0dqQ8hJEB4kJmvCyhBFNktuF6PGsTsL5-i7AxMj8cOT-1zifXA",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae172a9dffb4a5:0x9fee99efbbd0fd77?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAgTEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae172a9dffb4a5%3A0x9fee99efbbd0fd77&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "description": "Coffee, Cupcakes, and Crusty sandwiches. These were the ingredients chosen, to create the perfect Bakehouse. But Punchlime accidentally added an extra ingredient to the concoction-- Comedians...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/kalyan-nagar-comedy-nights/3900027674667249?slot=2025-06-30",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Glens BakeHouse Kalyan Nagar",
+        "rating": 4.4,
+        "reviews": 3807,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Glens+BakeHouse+Kalyan+Nagar&ludocid=11524317751414947191&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMSZriH4zgIAzJOpHNPiqECZdZJXyW7pzYoOtqIQBNKrTFBVeXqsA9wLo&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdJG6KdRklYMTX6jjdtDXzdu5_oR1Z7ZVdUazuZDD2w&s=10"
+    },
+    {
+      "title": "Best in Standup ft. Various Artists",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 8:30 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-20-2025/event/158403357/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAgbEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/best-in-standup-bengaluru-tickets-6-20-2025/event/158403357/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Chord Do Aanchal - One Last Time",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 8 PM"
+      },
+      "address": [
+        "Building No.480, The Underground Comedy Club, KHB Colony, 5th Block",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/chord-do-aanchal-one-last-time/3900027974082040",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=0aRVhYfVkSJb61YdcThLXOZd6XmEWWhJZYj9xWLjcP8JGtjN6W72-Uz6mK87Hcspf9g-HcPAzpz-yhTZe7_PQAeuOFBjY2gGmZ9pZRdavEYVQHyPZ3A",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15a97e0adfc7:0xf8b2fc633d090909?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAgjEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15a97e0adfc7%3A0xf8b2fc633d090909&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "description": "Aanchal brings her show one last time, Chord to Aanchal to record for YouTube at the underground comedy club. limited seating. Please get your tickets quick. Also check out other Comedy events in...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/chord-do-aanchal-one-last-time/3900027974082040",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "The Underground Comedy Club",
+        "rating": 4.5,
+        "reviews": 673,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Underground+Comedy+Club&ludocid=17920663370416589065&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlCo6n0sVF0cXrrg4J_Q8EgJjxc4iaU_FFcqkZ6HoHEgDVjIXpdVJ4kBY&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG3tYz9EoJhysdhgDFbSaOf1GxxezcTxDljcrutPAJsw&s=10"
+    },
+    {
+      "title": "GOD'S FAV IDIOT",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "May 31, 8 PM \u2013 Jun 22, 6 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/new%20delhi/bhala-manushya-ft-naman-jain/3900027786295454",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAgrEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "description": "GOD'S FAV IDIOT A stand up comedy show by Naman Jain that is strictly based on sacchi ghatnayein aur asli dard. Also check out other Comedy events in Bangalore , Entertainment events in Bangalore",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/gods-fav-idiot/3900027786295454",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ljp_oh8x-bq4npw82qGFdAXRQRhn3ifNyoIq2DBHWHg2qVu1YwongRk&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQEgHrkHp6rTImyles_0LmPMVgQrdA1EMEjnvnU9Gbg&s=10"
+    },
+    {
+      "title": "Haathi Ke Daant ft. Abinash Mohapatra",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 7 PM"
+      },
+      "address": [
+        "Ministry Of Comedy, 1018, 80 Feet Rd, above Cream Stone, opp. Wooden Street, 4th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/haathi-ke-daant-ft-abinash-mohapatra/3900028142981614",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=PAMRrFPy5HwBkJV0I3Hwx3h6H665_bDV9qIhmt2W3PRn28QQGhcBawn0jpv_Z2DFrbMQY3dlkxgI9Z2mpJDWSbfcqAwh2g3tLB8FEet0Wu5JF_ILPX4",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae153f3f235717:0xa1a338285c7f75c3?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAgzEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae153f3f235717%3A0xa1a338285c7f75c3&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "description": "Haathi Ke Daant is a hilarious stand-up comedy special by Abinash Mohapatra that explores the gap between appearances and reality. Packed with sharp wit, personal stories, and cultural...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/haathi-ke-daant-ft-abinash-mohapatra/3900028142981614",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Ministry Of Comedy",
+        "rating": 4.5,
+        "reviews": 306,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Ministry+Of+Comedy&ludocid=11647214807311939011&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5tH9tNc0hBTk38TyqrYGcWoU5lIOiwDeD5xFijxgZqKGKgWHZSbYfiM&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8p1ZIA4osmqucgePPkYjXr0zALgwrf188Rq20CGDYzw&s=10"
+    },
+    {
+      "title": "The Buffalo Intellectual Show",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 6 PM"
+      },
+      "address": [
+        "1022, 1st floor, TAG Comedy Club, Besides Chai Nagri, 80 Feet Rd, 4th Block, S T Bed Layout, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/the-buffalo-intellectual-show/3900028161278325",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=oeKzoisvKVvgbd-cBI6DTbvM7de5LK7_4ws2hrYFYMhtE8nqizSHKq0uuiQzojaPhe1oSxOwV3J8tCkrOT1HNnlrnnWv7NwJ2DhmpAxsZlQKffiM60g",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15cca4e6d095:0xbc551332725379f1?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAg7EAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15cca4e6d095%3A0xbc551332725379f1&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "description": "The Buffalo Intellectual `Live` Show-- come for an anti-caste comedy show which looks at the absurdities and oddities of the little understood world of `upper caste` Savarnas. From elite...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/the-buffalo-intellectual-show/3900028161278325",
+          "link_type": "tickets"
+        },
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/the-buffalo-intellectual-show-bengaluru-tickets-6-28-2025/event/158180095/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "TAG Comedy Club",
+        "rating": 4.3,
+        "reviews": 10,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=TAG+Comedy+Club&ludocid=13570774159538223601&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5qS9zQA_aRJxPpNknpzWRGqDkLUjtlNVL_GRORt0HmfWTpn_odAf3eg&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdanERQGD4oWtR78Y1Rc5V-M_P79DBtgWsnmrseYB18w&s=10"
+    },
+    {
+      "title": "Faaltugiri by Manish Chaubey India Tour",
+      "date": {
+        "start_date": "Jun 29",
+        "when": "Sun, Jun 29, 8 PM"
+      },
+      "address": [
+        "Building No.480, The Underground Comedy Club, KHB Colony, 5th Block",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/faaltugiri-by-manish-chaubey-india-tour/3900028219598311",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=0aRVhYfVkSJb61YdcThLXOZd6XmEWWhJZYj9xWLjcP8JGtjN6W72-Uz6mK87Hcspf9g-HcPAzpz-yhTZe7_PQAeuOFBjY2gGmZ9pZRdavEYVQHyPZ3A",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15a97e0adfc7:0xf8b2fc633d090909?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAhDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15a97e0adfc7%3A0xf8b2fc633d090909&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "description": "Manish Chaubey, a former software engineer from Bihar who left his job to pursue his true passion: procrastination. When he occasionally takes a break from this \u201cfull-time career,\u201d he finds...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/faaltugiri-by-manish-chaubey-india-tour/3900028219598311",
+          "link_type": "tickets"
+        },
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/manish-chaubey-bengaluru-tickets-6-29-2025/event/158276803/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Underground Comedy Club",
+        "rating": 4.5,
+        "reviews": 673,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Underground+Comedy+Club&ludocid=17920663370416589065&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSTt2b0LsVrJ0sXfsAM4ywS2RwT-RGY-zYniSD4HHjJ13HiT4ENM88MI&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhkQrxS9Hu56oMRcA7vpTQph1_7qTCsigkvglRpQ99Q&s=10"
+    },
+    {
+      "title": "Pratyush Chaubey Live",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 4 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/pratyush-chaubey-bengaluru-tickets-6-21-2025/event/158398762/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwjskuLMm_2NAxWtPxAIHXZsGRA4FBD14gF6BAhLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=20&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/pratyush-chaubey-bengaluru-tickets-6-21-2025/event/158398762/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0oANAUYt9nnW3c46sNdUyM5j8jVY0vy9gvWdW8jU_uLTCY094E7ngDi4&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrr460304Pn57QmAWEP9Ve5YiiURKM8gZQjQCTYHAVRg&s=10"
+    }
+  ]
+}

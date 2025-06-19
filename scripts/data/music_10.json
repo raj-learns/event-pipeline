@@ -1,0 +1,408 @@
+{
+  "search_metadata": {
+    "id": "6853de432f5ea0277b8abebd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e79a42d6620badf4/6853de432f5ea0277b8abebd.json",
+    "created_at": "2025-06-19 09:54:11 UTC",
+    "processed_at": "2025-06-19 09:54:11 UTC",
+    "google_events_url": "https://www.google.com/search?q=music&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=10&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/e79a42d6620badf4/6853de432f5ea0277b8abebd.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "q": "music",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 10,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "YAB V Open Call",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22"
+      },
+      "address": [
+        "Indian Music Experience Museum, Brigade Millenium Rd, JP Nagar 7th Phase",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://indianmusicexperience.org/bird-song/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=ClXHbsPGT2QCxiaw2xcJppsaFx46tzyoYFln8G9IwVMQhuJs2rCsF91693_ZZWRQvifFoWuYeFs8h3OYF7xvHTXtCEa3X-UI-kTT7PMaWguvICUNZEk",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1547381aaaab:0xf35fb2e714520a68?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAgDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1547381aaaab%3A0xf35fb2e714520a68&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "About If you are between the ages 14 and 17, fascinated by the arts and curious about the behind-the-scenes at a museum, then this opportunity is for you! The Youth Advisory Board is a unique...",
+      "ticket_info": [
+        {
+          "source": "Indianmusicexperience.org",
+          "link": "https://indianmusicexperience.org/mec-events/yab-v-open-call/",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Indian Music Experience Museum",
+        "rating": 4.6,
+        "reviews": 2764,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Indian+Music+Experience+Museum&ludocid=17536932179552111208&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXZ33Dg_K2vGVhcRpmtzp1V0Yr6aQZ5d5jBoGClE&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtJHRRZ0DPtDnCl6fqrnGvMhDBQ1czkVufucLdtXk-A&s=10"
+    },
+    {
+      "title": "Tour Magizhchi-round 2 Motta Maadi Music Bengaluru - Ticket9",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 1:30 \u2013 3:30 PM"
+      },
+      "address": [
+        "GOOD SHEPHERD AUDITORIUM, SACRED HEART GIRLS HIGH SCHOOL, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.theticket9.com/event/tour-magizhchi-round-2-motta-maadi-music-bengaluru",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=QfgR0uUEWyKDYBjHKOMEuVrsYXlYaYGjwjoCQclv3yvtXPGGgp-TaanAsqHLsxsXPMYimcDjPXJC8IBHh7jmekaT3cJZlkLeGlL8NU-QedVJOgsDt1A",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae167f01be3c6d:0xf1bad344fe1fef2f?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAgLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae167f01be3c6d%3A0xf1bad344fe1fef2f&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "Tour Magizhchi-round 2 Motta Maadi Music Bengaluru \u2014 a Concert event from 21 Jun 2025 at 07:00 PM onwards. Happening physically at GOOD SHEPHERD AUDITORIUM, Bengaluru. Free to attend. Register now!...",
+      "ticket_info": [
+        {
+          "source": "Ticket9",
+          "link": "https://www.theticket9.com/event/tour-magizhchi-round-2-motta-maadi-music-bengaluru",
+          "link_type": "more info"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoGTs76BKwshNi3-5xXqvaF26HF6gvt7i2E4umYne90cAtF23CHZ4w1N0&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_6Und6YaNbXrxqja7vpzME-tr2CgyZ2wd9DyBKLfJJzwukwSWcojcYspihsY&s"
+    },
+    {
+      "title": "Music & Poetry Open Mic",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 6:30 \u2013 8:00 PM"
+      },
+      "address": [
+        "VHM2+FV8 THE CIRCULAR SQUARE, 24, Doddakalansandra Gubbalala gate, next to Lakshmi Vilas Bank, Navaratan Gardens, Konanakunte",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/music-poetry-open-mic-jun28-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=9vZnggq608cW2dBNVas6hE8e9WHRV-Gy9EJbHIQOz9--GN89-vyrk6TiRypbZaioX9g7vKZ_IiOR9AS7fCNav_rp6K-UNKR6YPLS94RYtSpAIOzulwA",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae3fee2d0ccb97:0x5ae3bff6c9e3bc65?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAgTEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae3fee2d0ccb97%3A0x5ae3bff6c9e3bc65&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "Looking for a platform for your first foray into the world of music or poetry performances, but worried you might break a string, lose your voice, or present to a crowd who barely knows you...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/music-poetry-open-mic-jun28-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/music-poetry-open-mic-jun28-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/music-and-poetry-open-mic/3900028333976125",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "THE CIRCULAR SQUARE",
+        "rating": 4.3,
+        "reviews": 107,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=THE+CIRCULAR+SQUARE&ludocid=6549289349796838501&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7HZUc-_k9yE4y9GCYv4ursoQot6NYRUZY7Hn4u9Gw_r2znEF8hD-Qyc&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1o0gY5sNfosUfUuj1wh1EWV7XzlPwljy7KKvKUDHAGw&s"
+    },
+    {
+      "title": "Marham- A Musical Poetry Evening",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 5:00 \u2013 6:30 PM"
+      },
+      "address": [
+        "Namma Ashram - Cafe, Yoga, Stay, Shop, Events & more, 126/5/4, Nallurahalli Main Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/marham-a-musical-poetry-evening-jun22-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=Q-n6oJ1O5G8tJThjMt_c7v5XbSjyMq1enk7eH-VGWxtFI2dHg1WoUdwgyyIONDSxCC7V1NINTJ5t2hgxypmt0fs5i5Mwy2Xm6Vt7Hq6MNfiuRbqb3DU",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae133ba2884983:0x1bec99cda84dd551?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAgbEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae133ba2884983%3A0x1bec99cda84dd551&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "Catalyzed by Quirksmith, an intimate, curated journey where music and poetry come together to stir the soul.At MARHAM, we take you on an internal journey\u2014one that moves gently through memory...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/marham-a-musical-poetry-evening-jun22-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/marham-a-musical-poetry-evening-jun22-2025/event",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Namma Ashram - Cafe, Yoga, Stay, Shop, Events & more",
+        "rating": 4.4,
+        "reviews": 123,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Namma+Ashram+-+Cafe,+Yoga,+Stay,+Shop,+Events+%26+more&ludocid=2012152242098787665&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGACgnIZ9WbnfNnFNBi3MD6yrZ3MrWcO5ZbG5bth_qwzJi8bYXq5xKxY&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4syEvfPUYIjoKfmbd3tW26PndrBzMge88Lf_H3Vm3iA&s"
+    },
+    {
+      "title": "Magic with Music by Kalyan",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 6 \u2013 8 PM"
+      },
+      "address": [
+        "2nd Floor, Bloom Creative Zone - Haralur, Bloom Creative Zone, S.L.R. ARCADE, Haralur Main Rd, near HSR Layout, above Happyland Hypermarket",
+        "Haralur, Bengaluru, Karnataka, India"
+      ],
+      "link": "https://insider.in/magic-with-music-by-kalyan-jun28-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=BzZDXEe8OxTpoOQcBu0S83eBtGdyBBUGAnSMjFjs9lvcGDAcIDjTiUr6K5u3Rc4MS4kJEyHFEgT43YTiiB1HcaVNfkEnMZuHtrtLPacokt_9WIrJ3v8",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae139a99abfa07:0x39d69ccc5c6fb7cd?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAgjEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae139a99abfa07%3A0x39d69ccc5c6fb7cd&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "\ud83c\udfb6\u2728 Abraca-GUITAR! \u2728\ud83c\udfb6Ready to witness melodies that magically hit the right note? Bloom presents Magic with Music by Kalyan \u2014 a spellbinding fusion of soulful strumming and mind-bending...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/magic-with-music-by-kalyan-jun28-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/magic-with-music-by-kalyan-jun28-2025/event",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Bloom Creative Zone - Haralur",
+        "rating": 4.9,
+        "reviews": 69,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Bloom+Creative+Zone+-+Haralur&ludocid=4167690906716059597&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOvkMHaYZuqqILZAfmE6QLZ79g5nAGuPB3vTzTD8fPo1UKvB9a1Ex90k&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPuIIzv7K542O2cazxbPDWrNDHzSgHZfqdTsvgMMlTQ&s"
+    },
+    {
+      "title": "Swaradi Live Bollywood Music Show",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 6:30 \u2013 8:30 PM"
+      },
+      "address": [
+        "2nd Floor, Bloom Creative Zone : ECity 1 (Neotown), Bloom Creative Zone, VJR Arcade, Lake, Neotown, opp. Maragondananahalli, Electronic City Phase I, Electronic City",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://insider.in/swaradi-live-bollywood-music-show-jun28-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=sX8LzGBlAKFnVAGvi-4gSuSkjRTVEPTmAYd368a7ZOpqGOj2THBL01ImVHNbSSlyfCUCfMGkAcRvMumStbz-2jk0RhiVxQszr8yCVzCdqAF5DkVginQ",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae6d7df05a6237:0xef3a4b9371e96e3b?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAgrEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae6d7df05a6237%3A0xef3a4b9371e96e3b&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "Get ready for an electrifying evening filled with Bollywood rhythms and pop beats as Swaradi Live brings you a soulful tribute to the legends \u2013 Arijit Singh, KK, Shankar Mahadevan, Mohit Chauhan...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/swaradi-live-bollywood-music-show-jun28-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/swaradi-live-bollywood-music-show-jun28-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/swaradi-live-an-eve-of-bollywood-rhythms-and-raagas/3900027974369158",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Bloom Creative Zone : ECity 1 (Neotown)",
+        "rating": 5.0,
+        "reviews": 12,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Bloom+Creative+Zone+:+ECity+1+(Neotown)&ludocid=17238173620357393979&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXf5p2qaOmrCXSKIKLySobBw1tgIWOV7wsy8r1j1ZuYSR_V20M3qLavew&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUeStCNx2Y21HFXLNSa-zsIOtr1Uwq8fc9Cq0anwFXA&s"
+    },
+    {
+      "title": "Shaam-e-sukhan - Live Ghazal and Sufi Music",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 6:30 \u2013 8:00 PM"
+      },
+      "address": [
+        "31/2, 1st Floor, Artkhoj, 22nd Main Rd, R.K Colony, Marenahalli, 2nd Phase, J. P. Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/shaamesukhan-live-ghazal-and-sufi-music-jun28-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=Cg0OsQmdGWA_uLnSF5meedVsF69vkF66yt3YPl0CFLJ_6Hk0wji2O-L8QXgfoNpQN2y0EwmT7cASGF209HN-sGxhVfEjF5KXDaeiZJvB8B-FW1ws_kk",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1541cb8b1079:0x58a3085c895a53?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAgzEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1541cb8b1079%3A0x58a3085c895a53&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "Shaam-e-sukhan is an evening filled with the soulful charm of Ghazal and Sufi music performances. Featuring the mesmerising vocals of Koyel Mukherjee, finalist at Zee: Sa Re Ga Ma Pa, along with...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/shaamesukhan-live-ghazal-and-sufi-music-jun28-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/shaam-e-sukhan-live-ghazal-and-sufi-music/3900027700291009",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Artkhoj",
+        "rating": 4.5,
+        "reviews": 279,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Artkhoj&ludocid=24949054258109011&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6_seLZU4dNJkh2nvzLDquZ7XwUeEcfLRgFu9h--BJIeyuyZI-_73BWA&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPtkBS47n9Mm8vaPu2ShSy7TFa4UqEM2q4dPFIex3-Xw&s"
+    },
+    {
+      "title": "Malluminati: South Soul Live",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 8:30 PM \u2013 Mon, Jun 23, 1:00 AM"
+      },
+      "address": [
+        "3rd floor, LUX Pub & Kitchen, 20th Main Rd, KHB Colony, 7th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://insider.in/malluminati-south-soul-live-jun22-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=it2bfx_hLpl2uLd_wL_Vuf9aHw2Eq3OIL1YtqYkaPd84eJ0YZhBT1X-uK03VWyIydpc7eqh_aDyPVj8kWdDUwKCso2s8OR1cYHyj3taNkQGtUbQ91qQ",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15e4db251877:0xa55dacf5010138c6?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAg7EAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15e4db251877%3A0xa55dacf5010138c6&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "Malluminati is coming back to the city.Here we bring again South Soul live, where we celebrate the essence of Mallu vibe this week for all Bengaluru Malayalee in the city.A night towards the south.",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/malluminati-south-soul-live/3900028333639933",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/malluminati-south-soul-live-jun22-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/events/malluminati-ft-the-south-soul-aVWQXp36rO?utm_source=search_list",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "LUX Pub & Kitchen",
+        "rating": 4.2,
+        "reviews": 171,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=LUX+Pub+%26+Kitchen&ludocid=11915870357376022726&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=it2bfx_hLpl2uLd_wL_Vuf9aHw2Eq3OIL1YtqYkaPd84eJ0YZhBT1X-uK03VWyIydpc7eqh_aDyPVj8kWdDUwKCso2s8OR1cYHyj3taNkQGtUbQ91qQ"
+    },
+    {
+      "title": "Answer Music Live",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 8 PM \u2013 Sun, Jun 29, 1 AM"
+      },
+      "address": [
+        "4th floor, 171 - 172, Pangeo, Forum Rex Walk, Brigade Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://insider.in/answer-music-live-jun28-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=2Zez_wPI5jqqBQmE6nDDBvpW2LufuzGmnk-rcjqKJW5ql6P6a1EKPvtF4Szp83yDVT76dcM6cpb3vQ6df398R2ghcxiVMuHbx2vuMxuIhfQO7J-2nQI",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae17d262ecdccf:0x115fbcecc75e7731?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAhDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae17d262ecdccf%3A0x115fbcecc75e7731&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "ABOUT VENUEPangeo offers culinary excellence, luring visitors with delectable delights. The cuisine transports diners on a global tour, satisfying diverse palates with starters, main courses, and...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/answer-music-live-jun28-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/answer-music-live-jun28-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "Sort My Scene",
+          "link": "https://sortmyscene.com/event/centigrade-club-nights-ft-answer-28th-june-pangeo-jun-28-2025",
+          "link_type": "more info"
+        },
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/events/centigrade-club-nights-ft-answer--28th-june--pangeo-6nkPOpgAwL",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Pangeo",
+        "rating": 4.5,
+        "reviews": 3025,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Pangeo&ludocid=1251926946575447857&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwTB0iUxZWxwVBUpOFz-jQBhxVk91gUxYy_Pkh03Z6I3KOXzN4lN8gDs&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FZItTPEXY1gx_GHKe5aiAZ_6azdu5ola6cBye9FwOQ&s"
+    },
+    {
+      "title": "Friyay Night",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 9:30 PM \u2013 Sat, Jun 21, 1:00 AM"
+      },
+      "address": [
+        "Ground Floor, No. 18, Daysie (MG Road) : All Day Casual Bar, Ramanashree Arcade, Mahatma Gandhi Rd, Craig Park Layout",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/events/friyay--daysie-mg-road-5ewaepG9wE",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=eNSCgD5og3tQm4h10UT4Ek0WsKEiel-ZCWvHDa2MoEiU4glK_7-2D0E4pPX_dtat5wBMHjQv24anpOc7syhGSNfZWAbRI8M7nvBdnEY-hl3ZMFpvurM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae17436954e27d:0xf459d489646777a5?sa=X&ved=2ahUKEwjzi67Sm_2NAxXDv4kEHa1LH-k4ChD14gF6BAhLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae17436954e27d%3A0xf459d489646777a5&engine=google_maps&google_domain=google.com&hl=en&q=music&start=10&type=place"
+      },
+      "description": "Highlights DJ Night ftDJ Savio EDM and Hip Hop Music Dance Floor Non-Stop Music Ladies Night - Free Drinks For Ladies Flaunt your beautiful outfit and experience the night of glamour. BigTree...",
+      "ticket_info": [
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/events/friyay--daysie-mg-road-5ewaepG9wE",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Daysie (MG Road) : All Day Casual Bar",
+        "rating": 4.3,
+        "reviews": 1820,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Daysie+(MG+Road)+:+All+Day+Casual+Bar&ludocid=17607337904741775269&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqCr6c77mPM97sCAfxWAiA0NFBNRoKmRSjsB2Iwu5KgRmIwvbpIIOvzQM&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQ_mJgRGDTR6wOfrWugo5piALYPpDg2nK6x6fMuEyzw&s=10"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "search_metadata": {
+    "id": "6853de3f02ab8c67bfb9b3ea",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1ca51afee9ea5760/6853de3f02ab8c67bfb9b3ea.json",
+    "created_at": "2025-06-19 09:54:07 UTC",
+    "processed_at": "2025-06-19 09:54:07 UTC",
+    "google_events_url": "https://www.google.com/search?q=music&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=0&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/1ca51afee9ea5760/6853de3f02ab8c67bfb9b3ea.html",
+    "total_time_taken": 4.56
+  },
+  "search_parameters": {
+    "q": "music",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 0,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "World Music Day with Blr Music Huddle",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 11 AM \u2013 10 PM"
+      },
+      "address": [
+        "Underline Center, 3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://district.in/world-music-day-with-blr-music-huddle-jun21-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=PnhpYdK9kgrWcTswXtLHk_Ig8OGu0j1l6POGMo8rVlgTguuZNg6cRCmFG-DsgFWdGMy2Ziv0txf3SUdae_AUEu5QWgTxntaNsuyTJXU7Y9CE0Ct4ZJM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15ce8263b8d9:0x1589e99864d3e1a8?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIAxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15ce8263b8d9%3A0x1589e99864d3e1a8&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "This World Music Day, we\u2019re bringing together Bengaluru\u2019s music community to celebrate the joy of music by creating a space to learn, listen, share, and connect.Blr Music Huddle\u2019s fourth edition...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/world-music-day-with-blr-music-huddle-jun21-2025-buy-tickets",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Underline Center",
+        "rating": 4.9,
+        "reviews": 70,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Underline+Center&ludocid=1552028387341754792&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmjpDBIhzthRhtxBB794GwCUn3VbUY2z9DxoY0g7-ZG4J1qsmZ-dcYkYM&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSU3BsOZlyf8wjx4qvw2bcuDtk285IEAf72HRjMxqxg&s"
+    },
+    {
+      "title": "Let's Jam - Ultimate Musical Experience",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 4 \u2013 8 PM"
+      },
+      "address": [
+        "Sarjapur Social, Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/lets-jam-ultimate-musical-experience-jun21-2025/event/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=n4uiJmLJbXqsPdftAR9cdG2VALC-NvLTK5pw8gOnmcfnVJ570lXk990A6R2b3srB36n2bzhE2dFdrl4J223jluj-ME9B0b6o7WmMxTHDmYmXvZSyCh0",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae13401f3055f1:0xa0884d2469959dd5?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQICxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae13401f3055f1%3A0xa0884d2469959dd5&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "Let\u2019s Jam is back\u2014and this time, it\u2019s going to be legendary.Get ready for our most electric celebration yet, where ten phenomenal musicians and hundreds of passionate music lovers come together to...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/lets-jam-ultimate-musical-experience-jun21-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/lets-jam-ultimate-musical-experience-jun21-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/lets-jam-musical-evenings/3900028333783619",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Sarjapur Social",
+        "rating": 4.2,
+        "reviews": 11654,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Sarjapur+Social&ludocid=11567580461686693333&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0UpGbP49PzxxI_KcxSFkVaOGTBGnBJaSPLraoCdaEwbgrBT-dOOGyew&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6MAqguPJ02Z6KVeonELrcWDtbCT_IHn6T0hdHc-iIeg&s"
+    },
+    {
+      "title": "World Music Day: AR Rahman Tribute by Root35",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 9 \u2013 11 PM"
+      },
+      "address": [
+        "Ground Floor, Hard Rock Cafe Whitefield, 40, ITPL Main Rd Unit no.G, 25 & 26",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/world-music-day-ar-rahman-tribute-by-root35-jun21-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=XB6_2oiMLc_gksa-zCAMht8P4tY6_grhHA6arxHcvgDDynY5VU4_BdZ2uZGkUiYS3XhsV_SLFOWW4wNVym771bxBPd2kP3xulBbuGJIyfDUC6-cnYZg",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae117a127b0903:0x7e1045aaeb246ceb?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIExAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae117a127b0903%3A0x7e1045aaeb246ceb&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "World Music Day: AR Rahman Tribute by Root35\ufeffA Night of Soulful Sounds & Rocking RhythmsCelebrate the magic of music on World Music Day with a powerful tribute to the maestro A.R. Rahman, brought...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/world-music-day-ar-rahman-tribute-by-root35-jun21-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/world-music-day-ar-rahman-tribute-by-root35/3900028227653027",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Hard Rock Cafe Whitefield",
+        "rating": 4.5,
+        "reviews": 5032,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Hard+Rock+Cafe+Whitefield&ludocid=9083837048798080235&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVfmE66IkDliVzMjYuRLgwtSRC9cSzhAAeHuS5j82CUhy-U4tgy8fiQs&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQpkWDCHQ5gpgB8mGeypowXQIX-yC7x0LCaNt1PPSaUZYno3MJPYW3KDXcA&s"
+    },
+    {
+      "title": "Candlelight: Western Classical Music on Piano",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 9:00 \u2013 9:59 PM"
+      },
+      "address": [
+        "Alliance Fran\u00e7aise de Bangalore, Thimmaiah Rd, opposite UNI, Vasanth Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://liveyourcity.com/m/341961",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=y-zs_ZYgHo_oXGrwVcZNCc6lQod9ICb8r2CrfnBz_WSl-0QHtTBO-6NTEBcKbZ21gZzpxCMnG9KSrd-SwYjQ1IqRQ4-SPDsbNnB7VPERFOrWaYSbggg",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae165d38ad14c7:0x56d04f62f3c70f33?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIGxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae165d38ad14c7%3A0x56d04f62f3c70f33&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "\u2b50 New to India, Candlelight Concerts offer a musical experience beyond the ordinary. Join us in Bengaluru at Alliance Fran\u00e7aise de Bangalore for a captivating Candlelight: Western Classical Music...",
+      "ticket_info": [
+        {
+          "source": "Pxf.io",
+          "link": "https://fever.pxf.io/c/5715301/1928078/16345?prodsku=341961&u=https%3A%2F%2Fliveyourcity.com%2Fm%2F341961&intsrc=CATF_15532",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Liveyourcity.com",
+          "link": "https://liveyourcity.com/m/341961",
+          "link_type": "tickets"
+        },
+        {
+          "source": "International Exhibitions",
+          "link": "https://internationalexhibitions.in/entertainmentevents/candlelight-western-classical-music-on-piano/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Alliance Fran\u00e7aise de Bangalore",
+        "rating": 4.3,
+        "reviews": 537,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Alliance+Fran%C3%A7aise+de+Bangalore&ludocid=6255587168832917299&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BE74aDVMNjOM0J-4DhdEE3VT-97bygX21jzS5XU&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaa1tUmoLekp6xuyu8f-tsjbpzO8pX0JOEuI-txOfYKw&s"
+    },
+    {
+      "title": "Open Mic - Music",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Jun 8, 6:30 PM \u2013 Jun 21, 6:30 PM"
+      },
+      "address": [
+        "2nd Floor, Bloom Creative Zone : ECity 1 (Neotown), Bloom Creative Zone, VJR Arcade, Lake, Neotown, opp. Maragondananahalli, Electronic City Phase I, Electronic City",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/open-mic-music/3900027819377025",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=sX8LzGBlAKFnVAGvi-4gSuSkjRTVEPTmAYd368a7ZOpqGOj2THBL01ImVHNbSSlyfCUCfMGkAcRvMumStbz-2jk0RhiVxQszr8yCVzCdqAF5DkVginQ",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae6d7df05a6237:0xef3a4b9371e96e3b?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIIxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae6d7df05a6237%3A0xef3a4b9371e96e3b&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "Dive into an enchanting evening of creativity at our Open Mic for Music! Whether you`re a performer or an admirer, join us for a night filled with soulful melodies and heartfelt verses. Showcase...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/open-mic-music/3900027819377025",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Bloom Creative Zone : ECity 1 (Neotown)",
+        "rating": 5.0,
+        "reviews": 12,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Bloom+Creative+Zone+:+ECity+1+(Neotown)&ludocid=17238173620357393979&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd3Y1oz-3OvJ3x-k3sKI_bFvK1hQZA1-dark0B7-onbXbZiX6z4icNf9U&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREOaprsknSqtCM6q-iSfNZgMhSUkcGCfqsuiWf4Vs0Sw&s=10"
+    },
+    {
+      "title": "World Music Day: Girish And The Chronicles Live",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 9:30 PM"
+      },
+      "address": [
+        "Hard Rock Cafe Bengaluru, 40, St Mark's Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/world-music-day-girish-and-the-chronicles-live/3900028227647852",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=gRrcPiHBWER4NxGpZ68izpBtj4wTo7WPFXvcQgu3SLDGMKJPKpM6_rveHaEDzyRjl4ZiATqwII-T62gZGFiIGvdV0QeQjqFdCjEQa0W0EysKW7qoOuE",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae167b826ffedd:0x8aefb6358f083984?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIKxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae167b826ffedd%3A0x8aefb6358f083984&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "Girish and the Chronicles, also known as GATC, is an Indian rock band from Gangtok, Sikkim, formed in 2009 by vocalist Girish Pradhan. The line-up consists of Girish Pradhan on the vocals, Yogesh...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/world-music-day-girish-and-the-chronicles-live/3900028227647852",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Hard Rock Cafe Bengaluru",
+        "rating": 4.4,
+        "reviews": 16257,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Hard+Rock+Cafe+Bengaluru&ludocid=10011420837817104772&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=gRrcPiHBWER4NxGpZ68izpBtj4wTo7WPFXvcQgu3SLDGMKJPKpM6_rveHaEDzyRjl4ZiATqwII-T62gZGFiIGvdV0QeQjqFdCjEQa0W0EysKW7qoOuE"
+    },
+    {
+      "title": "Indie Hub: Raw Voices and Real Music",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 7 \u2013 10 PM"
+      },
+      "address": [
+        "Zo House Bangalore (Koramangala), S-1, P-2, Anaa Infra's Signature Towers Nirguna Mandir Layout, Cauvery Colony, 1st Block Koramangala, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/indie-hub-raw-voices-real-music-jun21-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=7BornAiiwxljxG21-CDjq_n_UYDmuRehBrDAXSh8KtIZCTTL1NbUdTUuwwsH78j_U_afAm8gzK9rZgREeMTJK8nQuISrzPtzZ8U08vnIN8Fu85jvExE",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8ae1273d5ed8489:0xdcb2c134a13bf96b?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIMxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8ae1273d5ed8489%3A0xdcb2c134a13bf96b&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "INDIE HUBRaw Voices. Real Music.Step into a night of stripped-down soul and storytelling as Chennai\u2019s indie gems Anjali Manoharan and Nikhil K bring their original music to Bangalore.Opening the...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/indie-hub-raw-voices-real-music-jun21-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/indie-hub-raw-voices-real-music/200028273051945",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Zo House Bangalore (Koramangala)",
+        "rating": 4.9,
+        "reviews": 70,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Zo+House+Bangalore+(Koramangala)&ludocid=15902985665986165099&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyZgSQ3Br8R5-EdlpFBh-gTO1F2HTUV-YUD6p-Hg_S0h2y0b5cd86kwQ&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF-hVr2P2gW79A8l3cR2SyGHs84ROaB1URHv9NbIRuxw&s"
+    },
+    {
+      "title": "Music Open Mic",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 6:30 \u2013 8:30 PM"
+      },
+      "address": [
+        "2nd Floor, Bloom Creative Zone : ECity 1 (Neotown), Bloom Creative Zone, VJR Arcade, Lake, Neotown, opp. Maragondananahalli, Electronic City Phase I, Electronic City",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/open-mic-music-apr26-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=sX8LzGBlAKFnVAGvi-4gSuSkjRTVEPTmAYd368a7ZOpqGOj2THBL01ImVHNbSSlyfCUCfMGkAcRvMumStbz-2jk0RhiVxQszr8yCVzCdqAF5DkVginQ",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae6d7df05a6237:0xef3a4b9371e96e3b?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIOxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae6d7df05a6237%3A0xef3a4b9371e96e3b&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "Dive into an enchanting evening of creativity at our Open Mic for Music! Whether you're a performer or an admirer, join us for a night filled with soulful melodies and heartfelt verses. Showcase...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/open-mic-music-apr26-2025-buy-tickets",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Bloom Creative Zone : ECity 1 (Neotown)",
+        "rating": 5.0,
+        "reviews": 12,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Bloom+Creative+Zone+:+ECity+1+(Neotown)&ludocid=17238173620357393979&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0Zf-jR5l1EsKLFLiPwbfd8lskB8jvtS0xNkq3RXrEQO0NwMpMY_G7s0&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxKPGfFz_ATKMt5zNE13V9c4i1VRMVNFasNTExGTnaFA&s"
+    },
+    {
+      "title": "Indigo Indie Fest - World Music Day Edition",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 5:00 \u2013 11:59 PM"
+      },
+      "address": [
+        "18, Adda 1522, 1, Cambridge Rd, Halasuru, Cambridge Layout, Jogupalya",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/indigo-indie-fest-world-music-day-edition-jun21-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=6_xd4UzUwN06H1WsCw5c3wFOuk2DGPB1VG614KBKJMgA9K9WQYkZAot8t1n6_06Je0eCmKOtE-yDO1dxmDHhCy7xIVzovvCjEqooMhGmp3UkC3fYjcw",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae17a5a888d95d:0xfe38b7f2e4c3dcd6?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQIQxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae17a5a888d95d%3A0xfe38b7f2e4c3dcd6&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "Indigo Indie Fest \u2013 World Music Day EditionPresented by Indigo 91.9FMCelebrate World Music Day with an evening of genre-defying indie music, vibrant energy, and unforgettable experiences. Indigo...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/indigo-indie-fest-world-music-day-edition-jun21-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/indigo-indie-fest-world-music-day-edition-jun21-2025/event",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Adda 1522",
+        "rating": 4.4,
+        "reviews": 889,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Adda+1522&ludocid=18318593738177502422&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2amhRs1DVdpVw_-axZUCl26WuSal88iXRC-5QsVe9dF8UypRDIB9hyA&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFokEZSSiN11NMFhb2ppVuhtPyHJrrwKcu63DGnYB-ZJ3CCHanL_PS0WBrw&s"
+    },
+    {
+      "title": "Houdini Waka - The Journey of House Music",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Thu, Jun 19, 7 PM \u2013 Fri, Jun 20, 1 AM"
+      },
+      "address": [
+        "Secret Story Bar & Kitchen, 968, 3rd & 4th Floor, 12th Main Rd, HAL 2nd Stage, Indiranagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/artist/houdini-laVWQGkOLG?parent_city=bangalore",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=MGoZ3qcFS3Y1jDmVILW1AwfsuGNL2rwHR3KJ6aXvG-PMWAF0olbVYc_etgCW7czKqNU9F-S4bMOXY2C7KfsCdF8QriFl9hGqznMyjcr30qLl9GRjCU8",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae17d445dd5bad:0x81bdd362b7d60d11?sa=X&ved=2ahUKEwigjcrRm_2NAxVJBNsEHSWuLOIQ9eIBegQISxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae17d445dd5bad%3A0x81bdd362b7d60d11&engine=google_maps&google_domain=google.com&hl=en&q=music&start=0&type=place"
+      },
+      "description": "Highlights DJ Night ft DJ Houdini Waka Nonstop Music EDM Techno Afro House Commercial Mouthwatering Appetizers Cocktails and Mocktails Every Thursday, Waka becomes the weekly ritual for those who...",
+      "ticket_info": [
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/artist/houdini-laVWQGkOLG?parent_city=bangalore",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Secret Story Bar & Kitchen",
+        "rating": 3.7,
+        "reviews": 2738,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Secret+Story+Bar+%26+Kitchen&ludocid=9348860822435532049&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuRVCL0kD0zabM_6-g1rNDtUU1XofVomPpZAzlrUQWIoY3XOk_b_hFhk&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEU2vGm5ppEHn0EvpQMWJ8JvsxiV6h3vT7QohZjsvCAg&s"
+    }
+  ]
+}

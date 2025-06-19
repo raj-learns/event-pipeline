@@ -1,0 +1,408 @@
+{
+  "search_metadata": {
+    "id": "6853de48f6e926e26f5a5cf9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/868125a1b3ee3c8a/6853de48f6e926e26f5a5cf9.json",
+    "created_at": "2025-06-19 09:54:16 UTC",
+    "processed_at": "2025-06-19 09:54:16 UTC",
+    "google_events_url": "https://www.google.com/search?q=music&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=30&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/868125a1b3ee3c8a/6853de48f6e926e26f5a5cf9.html",
+    "total_time_taken": 3.11
+  },
+  "search_parameters": {
+    "q": "music",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 30,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Twilight Tunes \u2013 2025, Mausam Mastana",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 5:00 \u2013 8:30 PM"
+      },
+      "address": [
+        "JSS Auditorium, JSS Educational Complex, Jagadguru Sri Shivarathreeswara Circle, 1st Main Rd, near by Nethradhama Eye Hospital, 8th Block, Jayanagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://sriprasthuthi.org/events/2025-06-22/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=m62wO3fOZbb5mx_m32yPtKFI7F4B6c4kj-VQECxowTN0TrtFz0cXeKdgmgPxuWKc3o0_BQrmK0U61tnLrJ4dPv9OgFtcRBFmjBp4KqLbF4hhL3OH6a8",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15766ad511bb:0x1b13bdbf8c4b1142?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAgDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15766ad511bb%3A0x1b13bdbf8c4b1142&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "SriPrasthuthi Trust proudly presents \"Mausam Mastana\", a soul-stirring musical evening that promises to transport the audience to the golden era of Bollywood music. This enchanting program...",
+      "ticket_info": [
+        {
+          "source": "SPT \u2013 Unlimited Learning\u2026",
+          "link": "https://sriprasthuthi.org/events/2025-06-22/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "JSS Auditorium",
+        "rating": 4.2,
+        "reviews": 3268,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=JSS+Auditorium&ludocid=1951111693971689794&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJT_M_iN0Ic7gnn4elA8NR73CSOAxs6vM2MVeU5YdQ_V9vxMzl3mhxSk&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPk2QnmOcdzMh7pUs8KAlqpoSeOgzGJ7qDEHaxt85cA&s=10"
+    },
+    {
+      "title": "Tipsyaana Shaam",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 8:00 PM \u2013 Sun, Jun 29, 12:30 AM"
+      },
+      "address": [
+        "Tipsyy Bull Brewhouse And Kitchen - Whitefield, 13/4, Hoodi Main Road, Graphite India Main Rd, Signal",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/events/tipsyaana-shaam-4qr4eBqpWy",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=QvQbsXPNZk5KzBaA5q6eSPCM-kPKJybuvsxsOrD7VlXYzMf4jqZKTvIkUqoIm6XDH5aJmavDFH_IEcy8LKZ_WvEDeSRPT1GwproT-wicQvBT0jhYB50",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae11004d6bf4f7:0x69a6e2d08c35849a?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAgLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae11004d6bf4f7%3A0x69a6e2d08c35849a&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Immerse yourself in an evening of divine resonance at Tipsyyaana Shaam Sufi Night at Tipsy Bull Whitefield. Let the mesmerizing voice of Hemant Raagi and his band transport you through timeless...",
+      "ticket_info": [
+        {
+          "source": "Highape.com",
+          "link": "https://tickets.highape.com/?event_name=tipsyaana-shaam-4qr4eBqpWy&city=bangalore&module_type=event",
+          "link_type": "tickets"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/tipsyaana-shaam/3900028340386551",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Tipsyy Bull Brewhouse And Kitchen - Whitefield",
+        "rating": 4.7,
+        "reviews": 2706,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Tipsyy+Bull+Brewhouse+And+Kitchen+-+Whitefield&ludocid=7613021605449794714&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZDsUXSBq_SuTQMfKqN30lzIh0JTPPN0V60vQkb3zvR0aebeAju6njDk&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKz69LsmJPmx94VYFssEOK3lYi5ZyZXihrDahYTokRQ&s"
+    },
+    {
+      "title": "Rock Around The World ft. The Adhir Punja Project",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 9:30 \u2013 11:30 PM"
+      },
+      "address": [
+        "Hard Rock Cafe Bengaluru, 40, St Mark's Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/rock-around-the-world-ft-the-adhir-punja-project-jun28-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=gRrcPiHBWER4NxGpZ68izpBtj4wTo7WPFXvcQgu3SLDGMKJPKpM6_rveHaEDzyRjl4ZiATqwII-T62gZGFiIGvdV0QeQjqFdCjEQa0W0EysKW7qoOuE",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae167b826ffedd:0x8aefb6358f083984?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAgTEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae167b826ffedd%3A0x8aefb6358f083984&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Rock Around The World Ft. The Adhir Punja ProjectThe Adhir Punja Project is who they are! Performing well-known English, Hindi, Tamil, and Kannada songs in their own distinctive style. Always...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/rock-around-the-world-ft-the-adhir-punja-project-jun28-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/rock-around-the-world-ft-the-adhir-punja-project-jun28-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/rock-around-the-world-ft-the-adhir-punja-project/3900028229166256",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Hard Rock Cafe Bengaluru",
+        "rating": 4.4,
+        "reviews": 16257,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Hard+Rock+Cafe+Bengaluru&ludocid=10011420837817104772&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=gRrcPiHBWER4NxGpZ68izpBtj4wTo7WPFXvcQgu3SLDGMKJPKpM6_rveHaEDzyRjl4ZiATqwII-T62gZGFiIGvdV0QeQjqFdCjEQa0W0EysKW7qoOuE"
+    },
+    {
+      "title": "Trending Thursday Ft Martin Dsouza",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Thu, Jun 19, 7 PM \u2013 Fri, Jun 20, 1 AM"
+      },
+      "address": [
+        "Happy Brew Bar & Kitchen, 5th Block, 40, 4th B Cross, Koramangala Industrial Layout, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/events/mad-thursday-ft-martin-dsouza-x-dj-roan-2arD8xgard",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=6yD-xhVFX2R-gzCIdJZAqDXmSvyfYQTOPp97-PGoEGiHoQ9IEP7NuvATdXmV8GeG8kcyEAJNMlwfjwxbb4-KuDHITv56oR_TKOBNVzbExbeJE8XSOEk",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1451dbe0e30b:0xa5e3fa2755b4cf15?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAgbEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1451dbe0e30b%3A0xa5e3fa2755b4cf15&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Highlights DJ Night ft Martin DSouza Non-Stop Music EDM TechnoNight Dance Floor Mouth-Watering Appetizers CocktailsandMocktails Get ready for an epic night and fun!Were thrilled to feature the...",
+      "ticket_info": [
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/events/mad-thursday-ft-martin-dsouza-x-dj-roan-2arD8xgard",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Happy Brew Bar & Kitchen",
+        "rating": 4.1,
+        "reviews": 5490,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Happy+Brew+Bar+%26+Kitchen&ludocid=11953672882820009749&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=6yD-xhVFX2R-gzCIdJZAqDXmSvyfYQTOPp97-PGoEGiHoQ9IEP7NuvATdXmV8GeG8kcyEAJNMlwfjwxbb4-KuDHITv56oR_TKOBNVzbExbeJE8XSOEk"
+    },
+    {
+      "title": "VILEN LIVE | BANGALORE",
+      "date": {
+        "start_date": "Jun 27",
+        "when": "Fri, Jun 27, 8:00 PM \u2013 Sat, Jun 28, 12:45 AM"
+      },
+      "address": [
+        "Ignite Super Club, 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://insider.in/vilen-live-bengaluru-jun27-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=3WXprNSHwZGmc8Yf0Ii6Ce0tAACTs9ivuva8akAN4VlGf0uvDB3cWG8ouMGZbyzA64WGikteFnckKdEpWWRsmlZ_cr1jX22QQB8iwsoN-Idck68swBM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae130063da9c99:0xa74ace4894e53ed6?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAgjEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae130063da9c99%3A0xa74ace4894e53ed6&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Buzzspark & Btwon PresentsVilen Live - Bengaluru\ud83c\udfa4 Vilen, the soulful singer-songwriter from Delhi, is all set to take the stage with his much-awaited India Tour,Known for his introspective lyrics...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/vilen-live-bengaluru-jun27-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/vilen-live-bengaluru/3900028052932642",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/vilen-live-bengaluru-jun27-2025/event",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Ignite Super Club",
+        "rating": 3.5,
+        "reviews": 91,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Ignite+Super+Club&ludocid=12054674163741572822&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBbNTYHd1hb-5TVFhcEA1s7MUhodUV5VZuze1Q284xjoJR8iqukML6iG0&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvZgyjlP9hDPUPSWpVGFtQHKW-mZ8Fh8UwMWahZ4pkA&s"
+    },
+    {
+      "title": "Sundowner Raga",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 5:00 \u2013 11:59 PM"
+      },
+      "address": [
+        "Kitty Ko, HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://insider.in/sundowner-raga-jun22-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=sERqk50eUC6XRQUsktmmzjF9YhB3meuWb5PGu5MurjDhYHsRsoLdzRN5dD9Q8yz7SGqE46yuixiqDSdQzwRYK-ncTL-l3qnfprirkBud8609R4lVLKQ",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae163f01e22fbf:0xd785ea81041cef79?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAgrEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae163f01e22fbf%3A0xd785ea81041cef79&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "SUNDOWNER RAGA RETURNS \ud83d\udd25Bengaluru \u2014 brace yourselves for a musical rampage!Headlining this ritual: Siva Prayojan / Raudri, Beyond Charlie, and Zeenix \u2014 who\u2019s bringing high-energy sets to blow the...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/sundowner-raga-jun22-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/sundowner-raga-jun22-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/tags/Kitty%20Su",
+          "link_type": "more info"
+        },
+        {
+          "source": "Sort My Scene",
+          "link": "https://sortmyscene.com/event/sundowner-raga-jun-22-2025",
+          "link_type": "more info"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/sundowner-raga/3900028338464417",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Kitty Ko",
+        "rating": 4.1,
+        "reviews": 1530,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Kitty+Ko&ludocid=15530076729897709433&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkdlVLQUJmaTPM4_iyTkBLsS7zOXFI9zTUCY9VBFqNoFoxisqeLsYxVb0&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXdjaG0jxuBvabo2142pDzFL_CfHwePVnRX7VRlX3QA&s"
+    },
+    {
+      "title": "Festival Friday",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 7 PM \u2013 Sat, Jun 21, 1 AM"
+      },
+      "address": [
+        "Ginza, 27, 4th B Cross, 5th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/events/festival-friday-K7rOP96yWl",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=Z5WK72tlHqMqOMmlo4ULjLQUPESxKOrI5N_uFO7hMaEZhgohZZ35RWumQXfQs7wrUZoqjJd0tms-JzPiuMHVPGC5FXdSvGjKgWR0rctc3yqGNKNgKn0",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae156f69acfa49:0x4fcb1db13ff0d340?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAgzEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae156f69acfa49%3A0x4fcb1db13ff0d340&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Highlights DJ Night ft DJ Manny Nonstop Music Bollywood Music UK Punjabi Commercial Music Vibrant Atmosphere Unstoppable Energy Mouthwatering Appetizers Cocktails and Mocktails Festival Friday...",
+      "ticket_info": [
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/events/festival-friday-K7rOP96yWl",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Ginza",
+        "rating": 4.3,
+        "reviews": 1155,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Ginza&ludocid=5749721996387734336&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNufxnmUrqlFBHI354bw1IbjMMFaJ0C_N0pag0Zg9tuwIw667m4nE55E4&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ855E0Vw-utGT6CvHvIn092pS3X73zmeWrXDIrEm8fuQ&s"
+    },
+    {
+      "title": "Suit And Panda",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 7 PM \u2013 Sun, Jun 29, 1 AM"
+      },
+      "address": [
+        "ZOZO THE CLUB, A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/events/suit-and-panda-aVWQXNPnrO",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=Cq573t4kHFFvfzRDpjEE0iE_1xtoATg_ogBqUroto5Mrg6nPz39usVDOjHk-juFX1OszvyMk6OOb4hE5AP1YqdfjDS2RobqDmJq7n6txGGzNL-gyB3g",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae17e28ca2dafb:0xa07fa61e79284eb7?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAg7EAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae17e28ca2dafb%3A0xa07fa61e79284eb7&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Highlights DJ Night EDM and Techno Nonstop Music Cocktails and Mocktails Great Ambeince Get ready for a night of electrifying performances featuring the sensational Suit & Panda alongside an...",
+      "ticket_info": [
+        {
+          "source": "Highape.com",
+          "link": "https://tickets.highape.com/?event_name=suit-and-panda-aVWQXNPnrO&city=bangalore&module_type=event",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/suit-and-panda-live-may-28th-sat-at-zozo-expert/3900028333843320",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "ZOZO THE CLUB",
+        "rating": 3.5,
+        "reviews": 48,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=ZOZO+THE+CLUB&ludocid=11565145017922637495&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3Y45MqdFoRCyXLORLu0xwfeeTBYWlNpF7ycZAaeZZ-c0sv3kFwUvG4w&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb13DpCuxpx90IdW2wFEkgSyUHFFIY0Dg4FEEuLkWHt25jfeW66AsqDE9HVw&s"
+    },
+    {
+      "title": "SAAZ-E-DLL by Rishab Chauhan and Group",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 7 \u2013 9 PM"
+      },
+      "address": [
+        "2nd & 3rd floor, Bloom Creative Zone - HSR, AJ Towers, #1174, Bloom Creative Zone - HSR, 24th Main Rd, above Axis Bank, Sector 2, HSR Layout",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/saazedll-by-rishab-chauhan-and-grp-jun21-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=9QWBu81nRdA-y_3HHidV06wU6CiMWQQRIVdKMgeOQbrMorKKLO3ouVYOuN1qSMi4ezbLwFyqtwSPW5zyJmzxoPSUGQ546Jp754eTzbDtxrcaxcpe_Xg",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15cd75beb471:0x1c0d813c31346ea2?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAhDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15cd75beb471%3A0x1c0d813c31346ea2&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Saaz-e-Dil \u2013 Performing Live by Rishabh Chauhan & Group \u2013 is an enchanting musical experience that takes you on a soulful journey through the world of Sufi and Qawwali melodies. Let your heart...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/saazedll-by-rishab-chauhan-and-grp-jun21-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/saaz-e-dil-a-sufi-and-qawwali-music-night/3900028338493705",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Bloom Creative Zone - HSR",
+        "rating": 5.0,
+        "reviews": 24,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Bloom+Creative+Zone+-+HSR&ludocid=2021413903282761378&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJNA6H0CCu3Lbuk1T7xnDaWWaYcoJ7qvT00DTtLev5lFjlATEtOETQrg&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEviwpQRp2kFJI8Zy6Zqm34rg4WxsxxNB0RprRplGjw&s"
+    },
+    {
+      "title": "Jam Eve - A Jamming Show \u00d7 Open Mic",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Jun 7, 6:30 PM \u2013 Jun 28, 9:30 PM"
+      },
+      "address": [
+        "CatchUp- Club, Brew House and Rooftop HSR Layout Bangalore, 253, 17th Cross Rd, 6th Sector, HSR Layout",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/places/catch-up-bangalore",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=7puXnS7YHybGGMFHE6gL8PTwRLGI95y8xDxsq01gyCTMj2xWFLzIprj7Du_lQvQyaxKZo0A4p-JV5mV_pnsNn8r49nNPQl2epcBzriLqHZ5N8JFxuO4",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae152ecf404d0f:0x57cc9839f5589dee?sa=X&ved=2ahUKEwj83pTVm_2NAxUSqJUCHei3LzU4HhD14gF6BAhLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae152ecf404d0f%3A0x57cc9839f5589dee&engine=google_maps&google_domain=google.com&hl=en&q=music&start=30&type=place"
+      },
+      "description": "Highlights High-energy jam session and open mic Platform for singers, musicians, poets & performers A creative, welcoming space for self-expression Connect with like-minded artists and music...",
+      "ticket_info": [
+        {
+          "source": "Highape.com",
+          "link": "https://tickets.highape.com/?event_name=jam-eve-bangalore-a-jamming-show-open-mic-a7kjyp7dwY&city=bangalore&module_type=event",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "CatchUp- Club, Brew House and Rooftop HSR Layout Bangalore",
+        "rating": 4.0,
+        "reviews": 1861,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=CatchUp-+Club,+Brew+House+and+Rooftop+HSR+Layout+Bangalore&ludocid=6326598951245487598&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvZX_M93o0mIldXH6lq3ny10onAaaZfpU0LDyh7CFAZj8U5FYdxZWFgI&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAv4hoYDiT7IyEuZGLb_VsaVO31kYDqcK-B0ufQP-vg&s"
+    }
+  ]
+}

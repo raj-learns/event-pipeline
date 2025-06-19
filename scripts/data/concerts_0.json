@@ -1,0 +1,262 @@
+{
+  "search_metadata": {
+    "id": "6853dd25532a17767c547c47",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/545cd52a138cfb04/6853dd25532a17767c547c47.json",
+    "created_at": "2025-06-19 09:49:25 UTC",
+    "processed_at": "2025-06-19 09:49:25 UTC",
+    "google_events_url": "https://www.google.com/search?q=concerts&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=0&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/545cd52a138cfb04/6853dd25532a17767c547c47.html",
+    "total_time_taken": 2.99
+  },
+  "search_parameters": {
+    "q": "concerts",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 0,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Forever Green & Gold: Retro Rhythms Concert",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 5 PM"
+      },
+      "address": [
+        "Mother Tekla Auditorium, 143, General KS Thimayya Rd, Craig Park Layout, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/forever-green-and-gold-retro-rhythms-concert/3900028245219559",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=vjcVQGqg0kW1f4r52Y4zZ5lci7y-_m6siIXJzvMMzY09V5tWJo-yLxg40GuSMzBZTKEvy4LecNzyFHFm9P-0EBOxYrAruTNbbmqO1Y7xtFCEcEer2DI",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae168268275b3d:0x701b83a71ef842a0?sa=X&ved=2ahUKEwjUz7PKmv2NAxUTha8BHaSeMs8Q9eIBegQIAxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae168268275b3d%3A0x701b83a71ef842a0&engine=google_maps&google_domain=google.com&hl=en&q=concerts&start=0&type=place"
+      },
+      "description": "Join us for an unforgettable evening of retro magic, melody, and memories. Organized by the Old Cottonians` Association of Bishop Cotton Girls` School to honour the legacy of it`s Alma Mater...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/forever-green-and-gold-retro-rhythms-concert/3900028245219559",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Mother Tekla Auditorium",
+        "rating": 4.0,
+        "reviews": 742,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Mother+Tekla+Auditorium&ludocid=8078195110421480096&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1sEqq54d6SnU6KKZ68W5Rgsj9eB2SEdfyvD5JIjk9aMfcfi7VOEcmRQ&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVh4GARrnV41D_1RG6Lns6_BROV_6QHSYpS6UMwuVEg&s=10"
+    },
+    {
+      "title": "Vidwan Sri Ashwath Narayanan's Concert",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 5:30 \u2013 8:00 PM"
+      },
+      "address": [
+        "Indiranagar Sangeetha Sabha, Sangeetha Sabha Purandara Bhavana, 8th Main Rd, HAL 2nd Stage, Indiranagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/vidwan-sri-ashwath-narayanans-concert-tickets/80002573095737",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=3mXiA32LssfmcLvKeEo0_IjHwfWQN0Bq_OfPQQ--_BUI5F9v4a_XPK9SCTbNykAPYB5PNwz01FEW5ZRsGvMHheWwa2rw66Vp0jA4EYxjyS2fNTIpNJo",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae16a8f87cc9f9:0x2a6b53752c239a82?sa=X&ved=2ahUKEwjUz7PKmv2NAxUTha8BHaSeMs8Q9eIBegQICxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae16a8f87cc9f9%3A0x2a6b53752c239a82&engine=google_maps&google_domain=google.com&hl=en&q=concerts&start=0&type=place"
+      },
+      "description": "Immerse yourself in the soul-stirring melodies of Ashwath Narayanan an acclaimed Carnatic vocalist hailing from a family deeply rooted in this classical tradition. His journey began under the...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/vidwan-sri-ashwath-narayanans-concert-tickets/80002573095737",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Indiranagar Sangeetha Sabha",
+        "rating": 4.5,
+        "reviews": 540,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Indiranagar+Sangeetha+Sabha&ludocid=3056628534817823362&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnD2RqnXRQhFlniQuN-52qww83xLVvLE6eX6G-cdjBa6OMC_eaCPQWGVo&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7oSbhtYwiq5e08utWLuwG6G24McUGI70TjpBuj5P0Vg&s=10"
+    },
+    {
+      "title": "Candlelight: Western Classical Music on Piano",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 9:00 \u2013 9:59 PM"
+      },
+      "address": [
+        "Alliance Fran\u00e7aise de Bangalore, Thimmaiah Rd, opposite UNI, Vasanth Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://liveyourcity.com/m/341961",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=y-zs_ZYgHo_oXGrwVcZNCc6lQod9ICb8r2CrfnBz_WSl-0QHtTBO-6NTEBcKbZ21gZzpxCMnG9KSrd-SwYjQ1IqRQ4-SPDsbNnB7VPERFOrWaYSbggg",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae165d38ad14c7:0x56d04f62f3c70f33?sa=X&ved=2ahUKEwjUz7PKmv2NAxUTha8BHaSeMs8Q9eIBegQIExAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae165d38ad14c7%3A0x56d04f62f3c70f33&engine=google_maps&google_domain=google.com&hl=en&q=concerts&start=0&type=place"
+      },
+      "description": "\u2b50 New to India, Candlelight Concerts offer a musical experience beyond the ordinary. Join us in Bengaluru at Alliance Fran\u00e7aise de Bangalore for a captivating Candlelight: Western Classical Music...",
+      "ticket_info": [
+        {
+          "source": "Pxf.io",
+          "link": "https://fever.pxf.io/c/5715301/1928078/16345?prodsku=341961&u=https%3A%2F%2Fliveyourcity.com%2Fm%2F341961&intsrc=CATF_15532",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Liveyourcity.com",
+          "link": "https://liveyourcity.com/m/341961",
+          "link_type": "tickets"
+        },
+        {
+          "source": "International Exhibitions",
+          "link": "https://internationalexhibitions.in/entertainmentevents/candlelight-western-classical-music-on-piano/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Alliance Fran\u00e7aise de Bangalore",
+        "rating": 4.3,
+        "reviews": 537,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Alliance+Fran%C3%A7aise+de+Bangalore&ludocid=6255587168832917299&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BE74aDVMNjOM0J-4DhdEE3VT-97bygX21jzS5XU&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaa1tUmoLekp6xuyu8f-tsjbpzO8pX0JOEuI-txOfYKw&s"
+    },
+    {
+      "title": "Candlelight: Queen vs ABBA",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Jun 20, 5 PM \u2013 Jul 11, 7 PM"
+      },
+      "address": [
+        "Alliance Fran\u00e7aise de Bangalore, Thimmaiah Rd, opposite UNI, Vasanth Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://liveyourcity.com/m/286336",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=y-zs_ZYgHo_oXGrwVcZNCc6lQod9ICb8r2CrfnBz_WSl-0QHtTBO-6NTEBcKbZ21gZzpxCMnG9KSrd-SwYjQ1IqRQ4-SPDsbNnB7VPERFOrWaYSbggg",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae165d38ad14c7:0x56d04f62f3c70f33?sa=X&ved=2ahUKEwjUz7PKmv2NAxUTha8BHaSeMs8Q9eIBegQIGxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae165d38ad14c7%3A0x56d04f62f3c70f33&engine=google_maps&google_domain=google.com&hl=en&q=concerts&start=0&type=place"
+      },
+      "description": "\u2b50 Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Bengaluru. Get your tickets now to discover the music of...",
+      "ticket_info": [
+        {
+          "source": "Pxf.io",
+          "link": "https://fever.pxf.io/c/5715301/1928078/16345?prodsku=286336&u=https%3A%2F%2Fliveyourcity.com%2Fm%2F286336&intsrc=CATF_15532",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Live Your City",
+          "link": "https://liveyourcity.com/m/286336",
+          "link_type": "more info"
+        },
+        {
+          "source": "International Exhibitions",
+          "link": "https://internationalexhibitions.in/entertainmentevents/candlelight-queen-vs-abba-10/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Alliance Fran\u00e7aise de Bangalore",
+        "rating": 4.3,
+        "reviews": 537,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Alliance+Fran%C3%A7aise+de+Bangalore&ludocid=6255587168832917299&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-OdG6MLz9la2RuteTJ4aNVYREmi-eg9sq3utVKg&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DaMv0KFajo1zihYm3FjCReQvmpRt74Vdt-d6ISPAHg&s=10"
+    },
+    {
+      "title": "Candlelight: Tribute to A.R. Rahman",
+      "date": {
+        "start_date": "Jun 29",
+        "when": "Sun, Jun 29, 6:30 \u2013 7:30 PM"
+      },
+      "address": [
+        "43/4, Hyatt Centric Hebbal Bengaluru, Bellary Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://internationalexhibitions.in/entertainmentevents/candlelight-tribute-to-a-r-rahman-8/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=taeNajJEyprSIswRCXcrD_MuNhIV8ONdpxtVxNxYn2JlFnFvvGNOdW9tJoRiyOo-Mn6IkzDxatcmldiuoT0nMR7ER8G-w0oNCfaARhgheHVUZiO7wT0",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae172584976233:0x1ae25581dbe73366?sa=X&ved=2ahUKEwjUz7PKmv2NAxUTha8BHaSeMs8Q9eIBegQIIxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae172584976233%3A0x1ae25581dbe73366&engine=google_maps&google_domain=google.com&hl=en&q=concerts&start=0&type=place"
+      },
+      "description": "\u00e2\u00ad New to India, Candlelight Concerts offer a musical experience beyond the ordinary. Join us in Bengaluru at Hyatt Centric Hebbal Bengaluru for a captivating Candlelight: Tribute to A.R. Rahman...",
+      "ticket_info": [
+        {
+          "source": "Pxf.io",
+          "link": "https://fever.pxf.io/c/5715301/1928078/16345?prodsku=346132&u=https%3A%2F%2Fliveyourcity.com%2Fm%2F346132&intsrc=CATF_15532",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Liveyourcity.com",
+          "link": "https://liveyourcity.com/m/346132",
+          "link_type": "tickets"
+        },
+        {
+          "source": "International Exhibitions",
+          "link": "https://internationalexhibitions.in/entertainmentevents/candlelight-tribute-to-a-r-rahman-8/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Hyatt Centric Hebbal Bengaluru",
+        "rating": 4.5,
+        "reviews": 871,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Hyatt+Centric+Hebbal+Bengaluru&ludocid=1937204805951239014&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=taeNajJEyprSIswRCXcrD_MuNhIV8ONdpxtVxNxYn2JlFnFvvGNOdW9tJoRiyOo-Mn6IkzDxatcmldiuoT0nMR7ER8G-w0oNCfaARhgheHVUZiO7wT0"
+    },
+    {
+      "title": "Matthew Ifield",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Thu, Jun 19, 8 PM \u2013 Fri, Jun 20, 2 AM"
+      },
+      "address": [
+        "GYLT, 22, Hennur Bagalur Main Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://open.spotify.com/concert/3HiSV6VHsjZF6QchcAxKY9",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=LT-nQuY9NtahQNnPjG5RLtCM1dZ-k1-Xt7Nhr50l1XxR1b5TNXP3ddnul3sxZwJmurUztFY1yO9TS0nJUHrlAlwoB6sMNI3eVKeP5Ec7w_rIvsLe_Mo",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae19dea574f111:0xa780984c40770851?sa=X&ved=2ahUKEwjUz7PKmv2NAxUTha8BHaSeMs8Q9eIBegQIKxAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae19dea574f111%3A0xa780984c40770851&engine=google_maps&google_domain=google.com&hl=en&q=concerts&start=0&type=place"
+      },
+      "description": "Find tickets for Matthew Ifield at GYLT in Bengaluru on 6/19/2025 at 8:00 PM",
+      "ticket_info": [
+        {
+          "source": "Spotify.com",
+          "link": "https://open.spotify.com/concert/3HiSV6VHsjZF6QchcAxKY9",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Bandsintown.com",
+          "link": "https://www.bandsintown.com/e/106784208?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Touch Local - Evvnt",
+          "link": "https://touchlocal.evvnt.com/?_evDiscoveryPath=/event/106784208n-matthew-ifield",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "GYLT",
+        "rating": 3.8,
+        "reviews": 609,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=GYLT&ludocid=12069814454619408465&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5RfFWlmGF9lS7ugAxxx8Ma1i-4cs3f6EvQjXT5W5e5rCwMCH3qRfXNk&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJp06fbBfbTB7Jx5lMzLD-LkNrzxwXXbudJQci9OW5xXMCG1WYWxpIRNIQw&s=10"
+    }
+  ]
+}

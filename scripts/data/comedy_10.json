@@ -1,0 +1,362 @@
+{
+  "search_metadata": {
+    "id": "6853de3499d5f4880f11c676",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f800bc04f6c82cfb/6853de3499d5f4880f11c676.json",
+    "created_at": "2025-06-19 09:53:56 UTC",
+    "processed_at": "2025-06-19 09:53:56 UTC",
+    "google_events_url": "https://www.google.com/search?q=comedy&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=10&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/f800bc04f6c82cfb/6853de3499d5f4880f11c676.html",
+    "total_time_taken": 1.59
+  },
+  "search_parameters": {
+    "q": "comedy",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 10,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "MOOR JANA - A Kannada Comedy Show!",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 4 PM"
+      },
+      "address": [
+        "Building No.480, The Underground Comedy Club, KHB Colony, 5th Block",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/moor-jana-a-kannada-comedy-show/3900027974279204",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=0aRVhYfVkSJb61YdcThLXOZd6XmEWWhJZYj9xWLjcP8JGtjN6W72-Uz6mK87Hcspf9g-HcPAzpz-yhTZe7_PQAeuOFBjY2gGmZ9pZRdavEYVQHyPZ3A",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15a97e0adfc7:0xf8b2fc633d090909?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAgDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15a97e0adfc7%3A0xf8b2fc633d090909&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "This June, catch three of the funniest comics in town light up the stage!Nithin Kamath, Ganesh Kashyap & Harmanpreet Singh are the Moor Jana you don\u2019t wanna miss!",
+      "ticket_info": [
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/moor-jana-a-kannada-comedy-show/3900027974279204",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Underground Comedy Club",
+        "rating": 4.5,
+        "reviews": 673,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Underground+Comedy+Club&ludocid=17920663370416589065&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=0aRVhYfVkSJb61YdcThLXOZd6XmEWWhJZYj9xWLjcP8JGtjN6W72-Uz6mK87Hcspf9g-HcPAzpz-yhTZe7_PQAeuOFBjY2gGmZ9pZRdavEYVQHyPZ3A"
+    },
+    {
+      "title": "Dark Jokes - A Dark Jokes Comedy Show",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 5 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/dark-jokes-comedy-show-bengaluru-tickets-6-19-2025/event/158403325/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAgLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/dark-jokes-comedy-show-bengaluru-tickets-6-19-2025/event/158403325/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Improv Comedy Jam",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Sun, Jun 22, 10:30 AM \u2013 4:00 PM"
+      },
+      "address": [
+        "Small World, 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/mobile/amp-event.php?event_id=3900027840748525&slot=2025-06-22",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=nOKstoyD0AmGJf0OU2bflQ0coNxtqVBzRjDdZ3RqE1krFbkKFRIrCsMyTLRQTnTDLHsqXmksyw_1ot6xxhIQv70TBQYQD6SMdUqwjiLx3ipldlottRs",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae145026b21079:0xa72e6d5863a338f6?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAgTEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae145026b21079%3A0xa72e6d5863a338f6&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "Unleash your spontaneity in our Improv Jam\u2014an interactive playground for on-the-spot creativity. Dive into a world of laughter, quick thinking, and collaborative storytelling as we improvise our...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/improv-comedy-jam/3900027840748525?slot=2025-06-22",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Small World",
+        "rating": 4.0,
+        "reviews": 1012,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Small+World&ludocid=12046686279658846454&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dxzlgr9q6QXQAmCYpRb0ChzdxPqePwvOcePpPKT0VcAlU0tkQksQz8Y&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NQqo_3jLgqhBG-G9-isCcFVAntJWV7CtRvy4lKUkPQ&s=10"
+    },
+    {
+      "title": "All Star Lineup - A Curated Stand Up Comedy Show",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 9 PM"
+      },
+      "address": [
+        "2nd Floor, The Comedy Theatre : Church Street, Bangalore, Brigade Gardens, 205, Church St, above Indian Coffee House, Shanthala Nagar, Ashok Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.stubhub.com/all-star-lineup-a-curated-stand-up-comedy-show-bengaluru-tickets-6-21-2025/event/158484315/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=xSqHfBEOeHUXSfCBofqOsdhO48sKXB5vJCgqdAGkEcIPkDYp3t6vAehwD5cF02_JiYg4qqu6YRNGzFxsy4DNywWsafDgwYB0RDdHKVm6jB4sWUGR0LM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae1717757e9bbb:0x33ac1e8cff49c2af?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAgbEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae1717757e9bbb%3A0x33ac1e8cff49c2af&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "ticket_info": [
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/all-star-lineup-a-curated-stand-up-comedy-show-bengaluru-tickets-6-21-2025/event/158484315/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "The Comedy Theatre : Church Street, Bangalore",
+        "rating": 4.8,
+        "reviews": 149,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=The+Comedy+Theatre+:+Church+Street,+Bangalore&ludocid=3723384582855836335&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMu3OgBNm-6aX36ZkVH5WzMZwuQ1jZyrPKutXp-mhajVOM6Ons2oir1g&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6BF9AgZBAj4O0FE2vfzLL46iaXXwZ-R8lHMEHSUeCg&s=10"
+    },
+    {
+      "title": "Kalyan Nagar Comedy Nights",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Thu, Jun 19, 8 PM"
+      },
+      "address": [
+        "Glens BakeHouse Kalyan Nagar, 426, 7th Main Rd, HRBR Layout 1st Block, HRBR Layout, Kalyan Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/mobile/amp-event.php?event_id=3900027674667249&slot=2025-06-19",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=rxZOVJ_2kPH8rJCBCR6CRJLb5PcbwhCuYfAkiv3xXPscuv8_5c0odV6vVOChRXUYW0dqQ8hJEB4kJmvCyhBFNktuF6PGsTsL5-i7AxMj8cOT-1zifXA",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae172a9dffb4a5:0x9fee99efbbd0fd77?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAgjEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae172a9dffb4a5%3A0x9fee99efbbd0fd77&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "Coffee, Cupcakes, and Crusty sandwiches. These were the ingredients chosen, to create the perfect Bakehouse. But Punchlime accidentally added an extra ingredient to the concoction-- Comedians...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/kalyan-nagar-comedy-nights/3900027674667249?slot=2025-06-19",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Glens BakeHouse Kalyan Nagar",
+        "rating": 4.4,
+        "reviews": 3807,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Glens+BakeHouse+Kalyan+Nagar&ludocid=11524317751414947191&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMSZriH4zgIAzJOpHNPiqECZdZJXyW7pzYoOtqIQBNKrTFBVeXqsA9wLo&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdJG6KdRklYMTX6jjdtDXzdu5_oR1Z7ZVdUazuZDD2w&s=10"
+    },
+    {
+      "title": "Akshay Srivastava Live Standup Comedy",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 8 PM"
+      },
+      "address": [
+        "Ministry Of Comedy, 1018, 80 Feet Rd, above Cream Stone, opp. Wooden Street, 4th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/akshay-srivastava-live-standup-comedy/3900027819648948",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=PAMRrFPy5HwBkJV0I3Hwx3h6H665_bDV9qIhmt2W3PRn28QQGhcBawn0jpv_Z2DFrbMQY3dlkxgI9Z2mpJDWSbfcqAwh2g3tLB8FEet0Wu5JF_ILPX4",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae153f3f235717:0xa1a338285c7f75c3?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAgrEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae153f3f235717%3A0xa1a338285c7f75c3&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "Akshay Srivastava is a standup comedian from India on a quest to uncover the true purpose of comedy and humor. Is it about spreading sheer happiness? Nope. It`s about the money\u2014at least for the...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/akshay-srivastava-live-standup-comedy/3900027819648948",
+          "link_type": "tickets"
+        },
+        {
+          "source": "StubHub",
+          "link": "https://www.stubhub.com/akshay-srivastava-bengaluru-tickets-6-21-2025/event/158299269/",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Ministry Of Comedy",
+        "rating": 4.5,
+        "reviews": 306,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Ministry+Of+Comedy&ludocid=11647214807311939011&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLB8r6_GJK455ndphwBTERow-rD89INkdOyXBcbn4XlEd7jL5ODET2f50&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7Trokvhd9PLKlzyrEUIGn_rgx81dfbhEarMup5ccrA&s=10"
+    },
+    {
+      "title": "Red Flags \u2013 A Stand Up Comedy Show 28th June 2025",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 7:30 PM"
+      },
+      "address": [
+        "Wireup Global Music Private Limited, 641, 80 Feet Rd, 4th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.premiertickets.co/event/red-flags-a-stand-up-comedy-show-28th-june-2025/",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=aNx-Twhthe745DGyHkg9Jjh57UwcOUtK8utTmzDniXxiYMsc7_1-IHv8C9dk1uPhaVJw5W53VnTs0XqOUWMe4Hi4Axl5YOd-qiKdWXtapgqamy6Et1Q",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15c853a5aa23:0x483d1ffa2c0829e?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAgzEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15c853a5aa23%3A0x483d1ffa2c0829e&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "Watch Red Flags: A Stand Up Comedy Show 2025 live at Wire Up comedy Club on 19 April at 7:30 PM. Laugh out loud with fresh takes and sharp humor.",
+      "ticket_info": [
+        {
+          "source": "Premiertickets.co",
+          "link": "https://www.premiertickets.co/event/red-flags-a-stand-up-comedy-show-28th-june-2025/",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Wireup Global Music Private Limited",
+        "rating": 4.6,
+        "reviews": 285,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Wireup+Global+Music+Private+Limited&ludocid=325334493978198686&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDmHz6CeGOZ_HLneKOVDcCVZxiZl2c-_a97W53-qwqHedGfW-5gyfs-M&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmOND1WSQ40z7ThdohzGyPt8OU0kM2O8dx6WwBQdQzreKnZtUSUj4iCP4mw&s=10"
+    },
+    {
+      "title": "HRC Comedy Night ft. Rupen Paul",
+      "date": {
+        "start_date": "Jun 29",
+        "when": "Sun, Jun 29, 7 \u2013 8 PM"
+      },
+      "address": [
+        "Ground Floor, Hard Rock Cafe Whitefield, 40, ITPL Main Rd Unit no.G, 25 & 26",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/hrc-comedy-night-ft-rupen-paul-jun29-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=XB6_2oiMLc_gksa-zCAMht8P4tY6_grhHA6arxHcvgDDynY5VU4_BdZ2uZGkUiYS3XhsV_SLFOWW4wNVym771bxBPd2kP3xulBbuGJIyfDUC6-cnYZg",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae117a127b0903:0x7e1045aaeb246ceb?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAg7EAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae117a127b0903%3A0x7e1045aaeb246ceb&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "A frustrated middle-class South Indian who did not do engineering, not because he was too cool to follow the crowd, but mainly because he didn't get enough marks. His jokes can find him making fun...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/hrc-comedy-night-ft-rupen-paul-jun29-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/hrc-comedy-nights-ft-rupen-paul/3900028231530144",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Hard Rock Cafe Whitefield",
+        "rating": 4.5,
+        "reviews": 5032,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Hard+Rock+Cafe+Whitefield&ludocid=9083837048798080235&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdlimAraPdbFg5B0UAzM9wjZxIgFSDkBB7t9BfrU39tnhJM91REMmqirA&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrLzv_GoFePdq-SVU-4DuJ7voj0Kj8UPQQ_3OMn5dHMA4J2vUaxY7pppz9w&s"
+    },
+    {
+      "title": "Improv Comedy Jam",
+      "date": {
+        "start_date": "Jun 29",
+        "when": "Sun, Jun 29, 10:30 AM \u2013 4:00 PM"
+      },
+      "address": [
+        "Small World, 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/mobile/amp-event.php?event_id=3900027840748525&slot=2025-06-29",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=nOKstoyD0AmGJf0OU2bflQ0coNxtqVBzRjDdZ3RqE1krFbkKFRIrCsMyTLRQTnTDLHsqXmksyw_1ot6xxhIQv70TBQYQD6SMdUqwjiLx3ipldlottRs",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae145026b21079:0xa72e6d5863a338f6?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAhDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae145026b21079%3A0xa72e6d5863a338f6&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "Unleash your spontaneity in our Improv Jam\u2014an interactive playground for on-the-spot creativity. Dive into a world of laughter, quick thinking, and collaborative storytelling as we improvise our...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/improv-comedy-jam/3900027840748525?slot=2025-06-29",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Small World",
+        "rating": 4.0,
+        "reviews": 1012,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Small+World&ludocid=12046686279658846454&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dxzlgr9q6QXQAmCYpRb0ChzdxPqePwvOcePpPKT0VcAlU0tkQksQz8Y&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NQqo_3jLgqhBG-G9-isCcFVAntJWV7CtRvy4lKUkPQ&s=10"
+    },
+    {
+      "title": "Dark and Late Comedy show",
+      "date": {
+        "start_date": "Jun 28",
+        "when": "Sat, Jun 28, 8 PM"
+      },
+      "address": [
+        "1022, 1st floor, TAG Comedy Club, Besides Chai Nagri, 80 Feet Rd, 4th Block, S T Bed Layout, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/mobile/amp-event.php?event_id=3900027973811854&slot=2025-06-28",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=oeKzoisvKVvgbd-cBI6DTbvM7de5LK7_4ws2hrYFYMhtE8nqizSHKq0uuiQzojaPhe1oSxOwV3J8tCkrOT1HNnlrnnWv7NwJ2DhmpAxsZlQKffiM60g",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15cca4e6d095:0xbc551332725379f1?sa=X&ved=2ahUKEwju9ITLm_2NAxX2BDQIHSDUBXo4ChD14gF6BAhLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15cca4e6d095%3A0xbc551332725379f1&engine=google_maps&google_domain=google.com&hl=en&q=comedy&start=10&type=place"
+      },
+      "description": "Dark is Bangalore`s only show which promotes dark jokes. Dark is a show where you get to hear jokes on topics you cannot imagine jokes being made on. These jokes will never come on Youtube...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/dark-and-late-comedy-show/3900027973811854?slot=2025-06-28",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "TAG Comedy Club",
+        "rating": 4.3,
+        "reviews": 10,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=TAG+Comedy+Club&ludocid=13570774159538223601&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTZaeoJa0wI3EYQhJsyxW-qdBHOkSijHNHFbMtkZTZoOjg6usYRYSwws&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiVY5aN9PJyswvyMfmHg7trA_QYJkIH39YJt7PdFp5w&s=10"
+    }
+  ]
+}

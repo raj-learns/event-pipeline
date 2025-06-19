@@ -1,0 +1,388 @@
+{
+  "search_metadata": {
+    "id": "6853de46bb48ad57d4c11202",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a4799aa52b5cbdd5/6853de46bb48ad57d4c11202.json",
+    "created_at": "2025-06-19 09:54:14 UTC",
+    "processed_at": "2025-06-19 09:54:14 UTC",
+    "google_events_url": "https://www.google.com/search?q=music&ibp=htl;events&uule=w+CAIQICIiQmFuZ2Fsb3JlIERpdmlzaW9uLEthcm5hdGFrYSxJbmRpYQ&start=20&chips=date:month",
+    "raw_html_file": "https://serpapi.com/searches/a4799aa52b5cbdd5/6853de46bb48ad57d4c11202.html",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "q": "music",
+    "engine": "google_events",
+    "location_requested": "Bangalore, India",
+    "location_used": "Bangalore Division,Karnataka,India",
+    "start": 20,
+    "htichips": "date:month"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Redroom Ft. Elecktraa & Beat Inspector",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 7:00 PM \u2013 Sat, Jun 21, 1:30 AM"
+      },
+      "address": [
+        "Kitty Ko, HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://www.district.in/events/redroom-ft-elecktraa-beat-inspector-jun20-2025-buy-tickets",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=sERqk50eUC6XRQUsktmmzjF9YhB3meuWb5PGu5MurjDhYHsRsoLdzRN5dD9Q8yz7SGqE46yuixiqDSdQzwRYK-ncTL-l3qnfprirkBud8609R4lVLKQ",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae163f01e22fbf:0xd785ea81041cef79?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAgDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae163f01e22fbf%3A0xd785ea81041cef79&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "Get ready for a night of high-voltage music and electrifying vibes as Kitty Ko brings you Elecktraa x Beatinspector, live at The Lalit Ashok Bangalore. Two powerhouse names in the Indian...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/redroom-ft-elecktraa-beat-inspector-jun20-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/redroom-ft-elecktraa-beat-inspector-jun20-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "Sort My Scene",
+          "link": "https://sortmyscene.com/event/redroom-ft-elecktraa-beat-inspector-jun-20-2025",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Kitty Ko",
+        "rating": 4.1,
+        "reviews": 1530,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Kitty+Ko&ludocid=15530076729897709433&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5XvUhZUqSVtYgSmwxf_nQgK9x0M3zlSQxLX6hgLl9pQnVIj9gn6jkoYs&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG17KaBWlBZqLwnSsg48RVy_o2jp9WaOrQgfMw69VSKA&s"
+    },
+    {
+      "title": "Tipsyaana Shaam",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 8:00 PM \u2013 Sun, Jun 22, 12:30 AM"
+      },
+      "address": [
+        "Tipsyy Bull Brewhouse And Kitchen - Whitefield, 13/4, Hoodi Main Road, Graphite India Main Rd, Signal",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/tipsyaana-shaam/3900028340345153",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=QvQbsXPNZk5KzBaA5q6eSPCM-kPKJybuvsxsOrD7VlXYzMf4jqZKTvIkUqoIm6XDH5aJmavDFH_IEcy8LKZ_WvEDeSRPT1GwproT-wicQvBT0jhYB50",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae11004d6bf4f7:0x69a6e2d08c35849a?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAgLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae11004d6bf4f7%3A0x69a6e2d08c35849a&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "Get ready for a night that touches the soul and stirs the spirit! Join us at Tipsy Bull Whitefield for Tipsyyaana Shaam \u2013 a mesmerizing Sufi Night featuring the enchanting sounds of Sukoon Wali...",
+      "ticket_info": [
+        {
+          "source": "Highape.com",
+          "link": "https://tickets.highape.com/?event_name=tipsyaana-shaam-N5k2L4JLWd&city=bangalore&module_type=event",
+          "link_type": "tickets"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/tipsyaana-shaam/3900028340345153",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Tipsyy Bull Brewhouse And Kitchen - Whitefield",
+        "rating": 4.7,
+        "reviews": 2706,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Tipsyy+Bull+Brewhouse+And+Kitchen+-+Whitefield&ludocid=7613021605449794714&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9xf6uI0QyfW_p58zIeYwkqDyqiQiVJJrwLXhcW9JStLC0roMzXMb7BM&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA3Aaa2k0pW2shgn-WjzunGVhHmeLFSfOuq7L3m-w6pQ&s"
+    },
+    {
+      "title": "Antakshari with KJ Latha",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "May 31, 5 PM \u2013 Jun 21, 5 PM"
+      },
+      "address": [
+        "Casa Karaoke and Art Studio, AI 1, 2nd floor, 15th Cross, 100 Feet Ring Rd, above Pizza Hut, J. P. Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/antakshari-with-kj-latha/3900027974299855",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=VowU2_Oz5bq-tU7c2ZyoXbc9fO6cu-O81urvexq7RCmzydDEuZXvrKyCRpAI3a8_ik0DV7WXyzf6-ExNuxvZgH7DwgHCuK3vQC-xkVEfkmFWcmM8xgM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae150c309f99f7:0xa30a464902bb59f4?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAgTEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae150c309f99f7%3A0xa30a464902bb59f4&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "\ud83c\udfa4 Antakshari with KJ Latha @ Casa Karaoke \ud83c\udfb6 An Evening to Sing, Shine, and Celebrate Music! Get ready for a night full of music, laughter, and unforgettable performances! Join us at Casa Karaoke...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/antakshari-with-kj-latha/3900027974299855",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Casa Karaoke and Art Studio",
+        "rating": 4.9,
+        "reviews": 1171,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Casa+Karaoke+and+Art+Studio&ludocid=11748279857341749748&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwehtS6ITKbV1D2-9G1z5H3tgUxJ7qCuKp1W4bg6e3BN3P7QgX_LW6FA&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VoE8puykXJnBFnWRD9MNDnkx2VbF6icQNg-nqck84Q&s=10"
+    },
+    {
+      "title": "Mile Sur Mera Tumhara",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 5:30 \u2013 7:30 PM"
+      },
+      "address": [
+        "Yuvaka Sangha, Yuvapatha. 4, 31st Cross, 11th Main Rd, 4th Block, Jayanagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/mile-sur-mera-tumhara/3900028333806227",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=TZBFWzW1ZL--fP3QKGTGtuyWgz7vm1OXl8qsK4mZeunnUJQn9jfyELZ5EVdGWBoF5cdtEUcQqGEwqeGl7OyU3DNWRyd68T6Ll0RzlxggXJPtOjQkHdY",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae15a18ac6cc6f:0x97b41f3a02822799?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAgbEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae15a18ac6cc6f%3A0x97b41f3a02822799&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "On this World Music Day NGO Astha is presenting 3 layered music concerts to respect abilities and celebrate uniqueness. Mile Sur Mera Tumhara is a heartwarming and inclusive celebration of music...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/mile-sur-mera-tumhara/3900028333806227",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Yuvaka Sangha",
+        "rating": 4.7,
+        "reviews": 464,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Yuvaka+Sangha&ludocid=10931396529545684889&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwvt6biD8cdCF3tBF6ttD92TfrvCS94eD4BjlUfpsip128Y70JuAsNAE&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjK5nIpAEfL1VLTDAkXLCf505pQAvNiZQElMEWTFF4Qw&s=10"
+    },
+    {
+      "title": "Antakshari with KJ Latha",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Sat, Jun 21, 5 PM"
+      },
+      "address": [
+        "Casa Karaoke and Art Studio, AI 1, 2nd floor, 15th Cross, 100 Feet Ring Rd, above Pizza Hut, J. P. Nagar",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/mobile/amp-event.php?event_id=3900027974299855&slot=2025-06-21",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=VowU2_Oz5bq-tU7c2ZyoXbc9fO6cu-O81urvexq7RCmzydDEuZXvrKyCRpAI3a8_ik0DV7WXyzf6-ExNuxvZgH7DwgHCuK3vQC-xkVEfkmFWcmM8xgM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae150c309f99f7:0xa30a464902bb59f4?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAgjEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae150c309f99f7%3A0xa30a464902bb59f4&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "\ud83c\udfa4 Antakshari with KJ Latha @ Casa Karaoke \ud83c\udfb6 An Evening to Sing, Shine, and Celebrate Music! Get ready for a night full of music, laughter, and unforgettable performances! Join us at Casa Karaoke...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/antakshari-with-kj-latha/3900027974299855?slot=2025-06-21",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Casa Karaoke and Art Studio",
+        "rating": 4.9,
+        "reviews": 1171,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Casa+Karaoke+and+Art+Studio&ludocid=11748279857341749748&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwehtS6ITKbV1D2-9G1z5H3tgUxJ7qCuKp1W4bg6e3BN3P7QgX_LW6FA&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VoE8puykXJnBFnWRD9MNDnkx2VbF6icQNg-nqck84Q&s=10"
+    },
+    {
+      "title": "OPEN MIC - ROCK THE STAGE",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Jun 1, 5:30 PM \u2013 Jun 22, 5:30 PM"
+      },
+      "address": [
+        "My School Of Rock Bengaluru - Guitar, Drums, Ukulele, Music Classes & Lessons, 346, 1st F Main Rd, Sector 2, Koramangala 8th Block, Adugodi",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://allevents.in/bangalore/open-mic-rock-the-stage/3900027700388040",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=gUK32mWzDTJ8bAWMXawa76MPZxrnGfMq0rciuqgy8Ov5_SyhS1xaWS4Anf7VRfSqJ4GbcrQFTIQ-fhVWa2pBAft4nr2YQh4PnTqjiEixI9MLsjEvYtg",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae148a416faec5:0xa7699914411b4319?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAgrEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae148a416faec5%3A0xa7699914411b4319&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "My School Of Rock Presents: \"Rock the Stage!\" Open Mic Night \ud83c\udfa4 Discover, Perform, Shine! \ud83c\udf1f \"Rock the Stage!\" is an exhilarating Open Mic Night hosted by My School Of Rock, designed for music...",
+      "ticket_info": [
+        {
+          "source": "Allevents.in",
+          "link": "https://allevents.in/bangalore/open-mic-rock-the-stage/3900027700388040",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "My School Of Rock Bengaluru - Guitar, Drums, Ukulele, Music Classes & Lessons",
+        "rating": 4.7,
+        "reviews": 717,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=My+School+Of+Rock+Bengaluru+-+Guitar,+Drums,+Ukulele,+Music+Classes+%26+Lessons&ludocid=12063341389159285529&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOelTUcLOJNehpx9oZH2XHfrnxGcHRYlp3_4jw_3hHIckONYaasXGo6k4&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTnIapGPxFhEQ8N0VEwQ2-eAlInKEmKMWmEVXoeM8jxw&s=10"
+    },
+    {
+      "title": "Friday Nakhra Night",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 7 PM \u2013 Sat, Jun 21, 1 AM"
+      },
+      "address": [
+        "23, 1st Floor, Badmaash Koramangala, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/events/friday-bollywood-ladies-night-GVrNmzaEkM",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=hfuVbj5ieGPXClj13QWiKr7l2WjhJKYgNqPVhlVmnQ7I85WvlCfRsX1Jsi_Wn9I5Ty76JIg8k2tMoWmLRdXPnhZLWmK27XHJFSqgDQKE6MUHbhaOIac",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae154b59d09177:0xcd1e01d0120c50a1?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAgzEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae154b59d09177%3A0xcd1e01d0120c50a1&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "Highlights DJ Night ft DJ Deep Bhamra and DJ Nikz Non-Stop Music Bollywood Music Dance Floor Great Ambience Mouth-Watering Appetizers CocktailsandMocktails Tiara Theme Night Transform your Friday...",
+      "ticket_info": [
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/events/friday-bollywood-ladies-night-GVrNmzaEkM",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Badmaash Koramangala",
+        "rating": 4.2,
+        "reviews": 4850,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Badmaash+Koramangala&ludocid=14780253020244168865&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=hfuVbj5ieGPXClj13QWiKr7l2WjhJKYgNqPVhlVmnQ7I85WvlCfRsX1Jsi_Wn9I5Ty76JIg8k2tMoWmLRdXPnhZLWmK27XHJFSqgDQKE6MUHbhaOIac"
+    },
+    {
+      "title": "Live Band Ft Willington Island At Ignite Super Club",
+      "date": {
+        "start_date": "Jun 29",
+        "when": "Sun, Jun 29, 8 PM \u2013 Mon, Jun 30, 1 AM"
+      },
+      "address": [
+        "Ignite Super Club, 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://highape.com/bangalore/tags/rock",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=3WXprNSHwZGmc8Yf0Ii6Ce0tAACTs9ivuva8akAN4VlGf0uvDB3cWG8ouMGZbyzA64WGikteFnckKdEpWWRsmlZ_cr1jX22QQB8iwsoN-Idck68swBM",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae130063da9c99:0xa74ace4894e53ed6?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAg7EAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae130063da9c99%3A0xa74ace4894e53ed6&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "Highlights Live Band ft Willington Island and Anand Sreeraj Nonstop Music Rock Regional Music Great Ambience Mouthwatering Appetizers Cocktails and Mocktails Get ready for an explosive night of...",
+      "ticket_info": [
+        {
+          "source": "HighApe",
+          "link": "https://highape.com/bangalore/tags/rock",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Ignite Super Club",
+        "rating": 3.5,
+        "reviews": 91,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Ignite+Super+Club&ludocid=12054674163741572822&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://www.google.com/maps/vt/data=3WXprNSHwZGmc8Yf0Ii6Ce0tAACTs9ivuva8akAN4VlGf0uvDB3cWG8ouMGZbyzA64WGikteFnckKdEpWWRsmlZ_cr1jX22QQB8iwsoN-Idck68swBM"
+    },
+    {
+      "title": "Friday Night Unplugged @ Urban Solace",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Fri, Jun 20, 7:30 \u2013 9:00 PM"
+      },
+      "address": [
+        "Urban Solace, 32, Annaswamy Mudaliar Rd, Ulsoor",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://insider.in/friday-night-unplugged-urban-solace-jun20-2025/event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=bh7GBzC8A68PFsBZRJ9Agc7aCByQueMpV4h7ZCtilUfJwlqb-qYR7ZqQvcn8lCX4HVQy93TQ1J04d1AZAxpuyQXyc7nP6Gmyj2uZWYiTwGnJ8hv2qvU",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae168e09ac7521:0xb6439b992f578bef?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAhDEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae168e09ac7521%3A0xb6439b992f578bef&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "Friday Night Unplugged @ Urban Solace is one of the oldest experiences in Urban Solace and has been the platform for the launch of hundreds of musicians and artists with a desire to have their...",
+      "ticket_info": [
+        {
+          "source": "District.in",
+          "link": "https://www.district.in/events/friday-night-unplugged-urban-solace-jun20-2025-buy-tickets",
+          "link_type": "tickets"
+        },
+        {
+          "source": "insider.in",
+          "link": "https://insider.in/friday-night-unplugged-urban-solace-jun20-2025/event",
+          "link_type": "more info"
+        },
+        {
+          "source": "AllEvents",
+          "link": "https://allevents.in/bangalore/friday-night-unplugged-at-urban-solace/3900028340322226",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Urban Solace",
+        "rating": 4.3,
+        "reviews": 2263,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=Urban+Solace&ludocid=13133512020569066479&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmMuuJeGK4Nlo0jJvsqdga5EQJE25_XMWAYuOZnz0xvk3XP8PmyWYtNY&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUzK-IiVm5SGTV7kT6YFaMk9zW6iMP793mxljXOAMk_g&s"
+    },
+    {
+      "title": "Matthew Ifield",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Thu, Jun 19, 8 PM \u2013 Fri, Jun 20, 2 AM"
+      },
+      "address": [
+        "GYLT, 22, Hennur Bagalur Main Rd",
+        "Bengaluru, Karnataka, India"
+      ],
+      "link": "https://open.spotify.com/concert/3HiSV6VHsjZF6QchcAxKY9",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=LT-nQuY9NtahQNnPjG5RLtCM1dZ-k1-Xt7Nhr50l1XxR1b5TNXP3ddnul3sxZwJmurUztFY1yO9TS0nJUHrlAlwoB6sMNI3eVKeP5Ec7w_rIvsLe_Mo",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bae19dea574f111:0xa780984c40770851?sa=X&ved=2ahUKEwisvs7Tm_2NAxV55ckDHUnKOJo4FBD14gF6BAhLEAA",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x3bae19dea574f111%3A0xa780984c40770851&engine=google_maps&google_domain=google.com&hl=en&q=music&start=20&type=place"
+      },
+      "description": "Find tickets for Matthew Ifield at GYLT in Bengaluru on 6/19/2025 at 8:00 PM",
+      "ticket_info": [
+        {
+          "source": "Spotify.com",
+          "link": "https://open.spotify.com/concert/3HiSV6VHsjZF6QchcAxKY9",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Bandsintown.com",
+          "link": "https://www.bandsintown.com/e/106784208?app_id=ggl_feed&came_from=289&utm_medium=web&utm_source=ggl_feed&utm_campaign=event",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Touch Local - Evvnt",
+          "link": "https://touchlocal.evvnt.com/?_evDiscoveryPath=/event/106784208n-matthew-ifield",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "GYLT",
+        "rating": 3.8,
+        "reviews": 609,
+        "link": "https://www.google.com/search?sca_esv=5591df9058345763&q=GYLT&ludocid=12069814454619408465&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5RfFWlmGF9lS7ugAxxx8Ma1i-4cs3f6EvQjXT5W5e5rCwMCH3qRfXNk&s",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJp06fbBfbTB7Jx5lMzLD-LkNrzxwXXbudJQci9OW5xXMCG1WYWxpIRNIQw&s=10"
+    }
+  ]
+}
