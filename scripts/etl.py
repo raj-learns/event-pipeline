@@ -184,4 +184,4 @@ if __name__ == "__main__":
     events = extract_events()
     write_to_tsv(events)
     write_to_json_payload(events)
-    print(f"✅ Cleaned {len(events)} events. Saved to {OUTPUT_FILE} and event_payloads.json")
+    print(f" Cleaned {len(events)} events. Saved to {OUTPUT_FILE} and event_payloads.json")
