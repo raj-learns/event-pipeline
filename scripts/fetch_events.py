@@ -3,7 +3,7 @@ import os
 import json
 from dotenv import load_dotenv
 
-# ✅ Create data folder if it doesn't exist
+#  Create data folder if it doesn't exist
 os.makedirs("data", exist_ok=True)
 
 load_dotenv()
