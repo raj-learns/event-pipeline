@@ -124,7 +124,7 @@ def extract_events():
                         })
 
                 except json.JSONDecodeError:
-                    print(f"⚠️ Invalid JSON: {filename}")
+                    print(f" Invalid JSON: {filename}")
     return deduplicate_events(all_events)
 
 def deduplicate_events(events):
